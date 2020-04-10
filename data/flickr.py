@@ -1,8 +1,8 @@
 from flickrapi import FlickrAPI
 import json
 
-KEY = "2c0bf9ef96955f21d833728a05ac2926"
-SECRET = "314d90a562e65882"
+KEY = "<KEY>"
+SECRET = "<SECRET>"
 
 SIZES = ["url_o", "url_k", "url_h", "url_l", "url_c"]
 
