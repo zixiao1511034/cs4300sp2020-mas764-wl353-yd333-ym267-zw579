@@ -3,17 +3,17 @@ from downloader import download_images
 import os
 import time
 
-all_species = ["waterfall"]
-image_per_specie = 10
+all_tags = ["waterfall"]
+image_per_tag = 10
 
 
 def download():
-    for specie in all_species:
-        print("Getting urls for", specie)
-        urls = get_urls(specie, image_per_specie)
+    for tag in all_tags:
+        print("Getting urls for", tag)
+        urls = get_urls(tag, image_per_tag)
         print("urls = ", urls)
-        print("Downloading image for", specie)
-        path = os.path.join("data", specie)
+        print("Downloading image for", tag)
+        path = os.path.join("data", tag)
 
         download_images(urls, path)
 
