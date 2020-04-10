@@ -1,4 +1,4 @@
-from flickr import get_urls
+from flickr import mining
 from downloader import download_images
 import os
 import time
@@ -10,7 +10,7 @@ image_per_tag = 10
 def download():
     for tag in all_tags:
         print("Getting urls for", tag)
-        urls = get_urls(tag, image_per_tag)
+        urls = mining(tag, image_per_tag)
         print("urls = ", urls)
         print("Downloading image for", tag)
         path = os.path.join("data", tag)

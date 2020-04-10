@@ -34,7 +34,7 @@ def get_url(photo):
             return url
 
 
-def get_urls(image_tag, max):
+def mining(image_tag, max):
     photos = get_photos(image_tag)
     parsed_text = json.loads(photos)
     counter = 0
