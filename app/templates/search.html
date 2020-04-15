@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/static/bootstrap.min.css" />
+    <link rel="stylesheet" href="/static/main.css" />
+  </head>
+  <body>
+    <div class="topcorner">
+      <p>Project Name: {{ name }}</p>
+      <!-- <p>Student Name: ({{ netid }})</p> -->
+      {% for id in netid %}
+      <br />
+      <p>{{id}}</p>
+      {% endfor %}
+    </div>
+    <form class="form-inline global-search">
+      <h1 style="font-size: 55px; font-family:Futura; color: #4285F4">
+        T
+        <span style="color: #EA4335; ">r</span>
+        <span style="color: #FBBC05; ">a</span>
+        <span style="color: #34A853; ">v</span>
+        <span style="color: #EA4335; ">e</span>
+        <span style="color: rgb(31, 47, 187); ">l</span>
+        <span> </span>
+        <span style="color: #EA4335; ">B</span>
+        <span style="color: #FBBC05; ">u</span>
+        <span style="color: #34A853; ">c</span>
+        <span style="color: #EA4335; ">k</span>
+        <span style="color: rgb(31, 47, 187); ">e</span>
+        <span style="color: rgb(14, 145, 73); ">t</span>
+      </h1>
+
+      <br /><br />
+
+      <div class="form-group">
+        <input
+          id="input"
+          type="text"
+          name="search"
+          class="form-control"
+          placeholder="Your Input"
+        />
+      </div>
+      <button type="submit" class="btn btn-info">Go!</button>
+    </form>
+    <form class="form-inline global-search">
+      {% if data %}
+      <h1>{{output_message}}</h1>
+      {% for d in data %}
+      <br />
+      <p>{{d}}</p>
+      {% endfor %} {% endif %}
+    </form>
+  </body>
+</html>
