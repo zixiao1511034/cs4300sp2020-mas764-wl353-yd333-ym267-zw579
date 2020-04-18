@@ -59,8 +59,9 @@ def get_info(photo):
     text = text.lstrip('jsonFlickrApi('.encode())
     text = text.rstrip(')'.encode())
     parsed_data = json.loads(text)
-    print("Photo Info:")
-    print(parsed_data)
+    # print("Photo Info:")
+    # print(parsed_data)
+    # print(" ")
 
 
 def get_comments(photo):
@@ -71,4 +72,5 @@ def get_comments(photo):
     parsed_data = json.loads(text)
     print("Photo Comments:")
     print(parsed_data)
+    print(" ")
 
