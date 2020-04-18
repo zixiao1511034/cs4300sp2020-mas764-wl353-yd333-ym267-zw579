@@ -7,87 +7,77 @@ import time
 from nltk.stem import PorterStemmer
 from flickr import FlickrPhotos
 
+class IRApi:
+    def __init__(self, city, topic):
+        self.place_url = {}
+        self.city = city
+        self.ps = PorterStemmer()
+        self.stem_topic = list(set([self.ps.stem(t) for t in topic.split(" ")]))
 
-query = input("Please input a city/area: ")
-query_terms = input("Please input topic: ").split(" ")
-start = time.time()
-api = GooglePlaces(query)
-json_review_dict = api.get_json()
-print(api.radius)
+    def get_review(self):
+        self.GP = GooglePlaces(city)
+        return self.GP.get_json()
 
-
-"""
-PROCESS JSON:
-"""
-# with open("google-review.json", "r") as f:
-#     json_review_dict = json.load(f)
-# json_review_dict = json.loads(json_file)
-
-## Some ideas for the future:
-# We can rank reviews further by how recent they are and by user-ranking (social component?).
-# We can tokenize in a way that accommodates typos or does better punctuation/space filtering.
-
-# Build dict with relevant fields: place ids, coordinate dict, and tokenized comments.
-ps = PorterStemmer()
-review_dict = {}
-review_list = []
-for place in json_review_dict:
-    if "reviews" in json_review_dict[place]["result"]:
-        review_dict[place] = {}
-        # I am assuming the key for each place is same as place name for
-        # the purposes of later computations.
-        review_dict[place]["name"] = json_review_dict[place]["result"]["name"]
-        review_dict[place]["id"] = json_review_dict[place]["result"]["place_id"]
-        review_dict[place]["loc_dict"] = json_review_dict[place]["result"]["geometry"]
-        review_dict[place]["comment_toks"] = []
-        for review in json_review_dict[place]["result"]["reviews"]:
-            # we can modify this in the future for multi-language support:
-            if review.get("language") == "en":
-                comment = review["text"]
-                # Tokenize: Get rid of new line token!!
-                comment = comment.lower()
-                tokens = re.findall("[a-z]+", comment)
-                stem_tokens = list(set([ps.stem(t) for t in tokens]))
-                # combining all comment toks.
-                # If we decide to treat comments seperately, will change this part.
-                review_dict[place]["comment_toks"] += stem_tokens
+    def process_json(self):
+        json_review_dict = self.get_review()
+        
+        self.review_dict = {}
+        self.review_list = []
+        for place in json_review_dict:
+            if "reviews" in json_review_dict[place]["result"]:
+                self.review_dict[place] = {}
+                # I am assuming the key for each place is same as place name for
+                # the purposes of later computations.
+                self.review_dict[place]["name"] = json_review_dict[place]["result"]["name"]
+                self.review_dict[place]["id"] = json_review_dict[place]["result"]["place_id"]
+                self.review_dict[place]["loc_dict"] = json_review_dict[place]["result"]["geometry"]
+                self.review_dict[place]["comment_toks"] = []
+                for review in json_review_dict[place]["result"]["reviews"]:
+                    # we can modify this in the future for multi-language support:
+                    if review.get("language") == "en":
+                        comment = review["text"]
+                        # Tokenize: Get rid of new line token!!
+                        comment = comment.lower()
+                        tokens = re.findall("[a-z]+", comment)
+                        stem_tokens = list(set([self.ps.stem(t) for t in tokens]))
+                        # combining all comment toks.
+                        # If we decide to treat comments seperately, will change this part.
+                        self.review_dict[place]["comment_toks"] += stem_tokens
 
 
-        review_list.append(review_dict[place].copy())
+                self.review_list.append(self.review_dict[place].copy())
 
+    def get_rank_places(self):
+        self.process_json()
+        inverted_index = build_inverted_index(self.review_list)
+        bool_search_results = dis_boolean_search_ordered(
+            self.stem_topic, inverted_index, len(self.review_list)
+        )
+        ranked_places = rank_places(self.review_dict, self.review_list, bool_search_results)
 
-"""
-PROCESS PREFERENCE QUERY:
-"""
-# TODO: Create tokenized list of query_terms.
-# For now I am using an example:
-# query_terms = ["waterfall", "park", "winter", "trail"]
+        FP = FlickrPhotos()
+        for r_p in ranked_places:
+            photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
+            urls = FP.get_urls(photos)
+            self.place_url[r_p["name"]] = urls
+        return json.dumps(self.place_url)
 
-stem_query_terms = list(set([ps.stem(q) for q in query_terms]))
-print(stem_query_terms)
-
-"""
-APPLY METHODS:
-"""
-inverted_index = build_inverted_index(review_list)
-bool_search_results = dis_boolean_search_ordered(
-    stem_query_terms, inverted_index, len(review_list)
-)
-ranked_places = rank_places(review_dict, review_list, bool_search_results)
+   
 
 
 
-FP = FlickrPhotos()
-place_url = {}
-for r_p in ranked_places:
-    photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
-    urls = FP.get_urls(photos)
-    place_url[r_p["name"]] = urls
+#input city/area name string, as specific as possible. Eg. "Manhattan, New York"
+city = input("Please input a city/area: ")
+#input topic, seperated by space. Eg. "photo historical building bridge"
+topic = input("Please input topic: ")
 
-
-end = time.time()
-for place in ranked_places:
-    print(place["name"])
-
+IR = IRApi(city, topic)
+place_url = IR.get_rank_places()
 print(place_url)
-print("/////////////running time:{time}sec".format(time=end - start))
+print(type(place_url))
+
+
+
+
+
+
