@@ -4,13 +4,15 @@ monkey.patch_all()
 
 # Imports
 import os
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 from flask_socketio import SocketIO
+from flask_cors import CORS
 
 # Configure app
 socketio = SocketIO()
 app = Flask(__name__)
+CORS(app)
 app.config.from_object(os.environ["APP_SETTINGS"])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
@@ -25,6 +27,14 @@ app.register_blueprint(irsystem)
 
 # Initialize app w/SocketIO
 socketio.init_app(app)
+
+# Our search route. It returns JSON and is called by the front-end
+# TODO: add filters as an arg
+# Example search- http://localhost:5000/search?city=Tampa
+@app.route('/search', methods=['GET'])
+def get_results():
+    city = request.args.get('city')
+    return {'current_city': city}
 
 # HTTP error handling
 @app.errorhandler(404)
