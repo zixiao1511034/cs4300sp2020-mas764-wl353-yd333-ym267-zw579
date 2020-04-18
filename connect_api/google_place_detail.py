@@ -2,12 +2,16 @@ import requests
 import json
 import googlemaps
 from geopy.distance import geodesic
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class GooglePlaces(object):
     def __init__(self, query):
         super(GooglePlaces, self).__init__()
-        self.apiKey = "AIzaSyBVcIHuSRlW3_oYzGqjhXjeDMoieZtvBhg"
+        self.apiKey = os.getenv("APIKEY")
         self.query = query
         self.fields = ["name", "geometry", "place_id", "rating", "review"]
         self.types = ["tourist_attraction"]
