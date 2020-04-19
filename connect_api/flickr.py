@@ -16,8 +16,10 @@ load_dotenv()
 class FlickrPhotos():
 
     def __init__(self):
+        dir = os.path.abspath(os.path.dirname(__file__))
+        auth_file_name = os.path.join(dir, 'auth.txt')
         flickr_api.set_keys(api_key = os.getenv("F_APIKEY"), api_secret = os.getenv("F_SECRET"))
-        flickr.set_auth_handler("auth.txt")
+        flickr.set_auth_handler(auth_file_name)
         flickr_api.enable_cache()
 
     #Returns photos of a location sorted by views
