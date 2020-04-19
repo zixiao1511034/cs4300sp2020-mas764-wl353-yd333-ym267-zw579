@@ -56,11 +56,14 @@ class IRApi:
         ranked_places = rank_places(self.review_dict, self.review_list, bool_search_results)
 
         FP = FlickrPhotos()
+        # print(ranked_places)
         for r_p in ranked_places:
-            photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
+            # photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
+            photos = FP.get_photos(text=r_p['name'])
+
             urls = FP.get_urls(photos)
             self.place_url[r_p["name"]] = urls
-        return json.dumps(self.place_url)
+        return json.dumps(self.place_url, indent=2)
 
    
 
@@ -74,7 +77,7 @@ topic = input("Please input topic: ")
 IR = IRApi(city, topic)
 place_url = IR.get_rank_places()
 print(place_url)
-print(type(place_url))
+
 
 
 
