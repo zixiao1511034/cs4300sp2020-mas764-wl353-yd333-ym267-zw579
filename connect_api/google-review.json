@@ -1,1539 +1,1462 @@
 {
-  "Brockton Point Lighthouse": {
+  "Chrysler Building": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.30082,
-          "lng": -123.117067
+          "lat": 40.7516208,
+          "lng": -73.97550199999999
         },
         "viewport": {
           "northeast": {
-            "lat": 49.3020858802915,
-            "lng": -123.1157518697085
+            "lat": 40.75289618029149,
+            "lng": -73.9743004197085
           },
           "southwest": {
-            "lat": 49.2993879197085,
-            "lng": -123.1184498302915
+            "lat": 40.75019821970849,
+            "lng": -73.9769983802915
           }
         }
       },
-      "name": "Brockton Point Lighthouse",
-      "place_id": "ChIJHy7hopZxhlQRQm8kvXor-Ho",
-      "rating": 4.5,
+      "name": "Chrysler Building",
+      "place_id": "ChIJeWPFRwJZwokRGD60OOo74RU",
+      "rating": 4.6,
       "reviews": [
         {
-          "author_name": "Shahzad Qureshi",
-          "author_url": "https://www.google.com/maps/contrib/106912561388081005075/reviews",
+          "author_name": "Tawanna Oden",
+          "author_url": "https://www.google.com/maps/contrib/116466438454457423335/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-p0qCvX7K1cI/AAAAAAAAAAI/AAAAAAAAAAA/6VUATzpup7M/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "The drive to and the actual place is gorgeous. The scenery is as if from a post card",
-          "time": 1584486854
-        },
-        {
-          "author_name": "Alessandro Putzolu",
-          "author_url": "https://www.google.com/maps/contrib/102365235111476934349/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-T4k_GwPYWAI/AAAAAAAAAAI/AAAAAAAAAAA/fLmWA48XVLM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "a month ago",
-          "text": "I thought I would find a better point of view on the lighthouse, but still an interesting spot",
-          "time": 1583001703
-        },
-        {
-          "author_name": "Lewis B",
-          "author_url": "https://www.google.com/maps/contrib/102460179439970239881/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-VkDgaI156co/AAAAAAAAAAI/AAAAAAAAAAA/HTjgjsRrtg0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "5 months ago",
-          "text": "This is definitely a must stop while doing wedding photography. It contains multiple angles within few steps. Only drawback is the amount of people around never stops, definitely not a great location if you can't wait, otherwise don't miss it. Photos by Farawayland weddings.",
-          "time": 1573428126
-        },
-        {
-          "author_name": "Oliver Britnell",
-          "author_url": "https://www.google.com/maps/contrib/115577765852113585409/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-dDxEyUE3XRw/AAAAAAAAAAI/AAAAAAAAAAA/-dtnsI2jWP0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "Very nice spot.. despite the sewer outflow. I farted loudly and horrified a passing family.. for which I'm forever sorry",
-          "time": 1579492973
-        },
-        {
-          "author_name": "Syed Atif",
-          "author_url": "https://www.google.com/maps/contrib/110011268622457161058/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-_tfaK8LWCy8/AAAAAAAAAAI/AAAAAAAAAAA/Mc6hU5ZUx-U/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "a month ago",
-          "text": "Overhyped. You've much better views from all around the park. Sea wall and the lighthouse weren't really as charming and they're put out to be",
-          "time": 1582861100
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Canada Place": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2888248,
-          "lng": -123.1111209
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2895773302915,
-            "lng": -123.10985305
-          },
-          "southwest": {
-            "lat": 49.2868793697085,
-            "lng": -123.11492445
-          }
-        }
-      },
-      "name": "Canada Place",
-      "place_id": "ChIJIeDiJJ1xhlQRCWHIheB_Bbc",
-      "rating": 4.5,
-      "reviews": [
-        {
-          "author_name": "Amin Maherali",
-          "author_url": "https://www.google.com/maps/contrib/109441619189615107793/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-lwhOR_3Ps3E/AAAAAAAAAAI/AAAAAAAAAAA/-vgL_swP7-8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "What to do and where to go in VANCOUVER!! \nA Wonderful place to visit and enjoy the views of the NEW  Vancouver Convention Center, North Shore mountains, watch the Sea planes land and take off. A great place to people watch while you sip a cup of your favorite mocha and enjoy the bites. Go for a walk down the CANADIAN TRAIL. And make you way to the end of the trail for some great views. This a must see for visitors to the Vancouver area. One of my favorite places to take friends and families when they are visiting our special beautiful city. Watch for more of my reviews under the headline-\nWhat to do in VANCOUVER!!\nYou can then Enjoy the Fly Over Canada experience as well. The movies are often changing so catch something different. And tell your friends about it also. \nPls give me a like \ud83d\udc4dif you read this! Thanks",
-          "time": 1583092045
-        },
-        {
-          "author_name": "Dapeng Li",
-          "author_url": "https://www.google.com/maps/contrib/116769473767272062477/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-Qv2xTi5kvOE/AAAAAAAAAAI/AAAAAAAAAAA/B7e7emmk9WA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "One of the MUST GO scenic spots to visit in Vancouver.\nThere are always stuffs guiding people in the building.\nYou wouldn\u2019t worry to get lost.\nAnd man! The view is amazing. \nMust give a try on Fly Canada, very unique experience.",
-          "time": 1584456086
-        },
-        {
-          "author_name": "Jared Bayley",
-          "author_url": "https://www.google.com/maps/contrib/108295634594868610293/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/--kPgCYu48rc/AAAAAAAAAAI/AAAAAAAAAAA/J9WaxFlIhR4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "This is a great part of Vancouver! You can see amazing views from outside the convention centre itself, out toward the ski mountains, water, and Stanley Park. There is lots of room inside the convention centre, and because it's connected to the Pan Pacific Hotel there is lots of room to walk around and explore the lobby of that as well. Very roomy and well-kept inside Canada Place, and the layout totally makes sense.",
-          "time": 1578862255
-        },
-        {
-          "author_name": "Shireen Sethi",
-          "author_url": "https://www.google.com/maps/contrib/117585611163925005789/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-g0OleRBakGc/AAAAAAAAAAI/AAAAAAAAAAA/9rQMaJz1p8I/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "It's touristy but so much fun. Great vibe. An iconic landmark. And so beautifully blue",
-          "time": 1584187427
-        },
-        {
-          "author_name": "Yagyaseni",
-          "author_url": "https://www.google.com/maps/contrib/104790034942564023121/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-oMtElQ_Z7y4/AAAAAAAAAAI/AAAAAAAAAAA/cq3dSDsb7Lo/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "profile_photo_url": "https://lh6.ggpht.com/-FmQLUd3fwJU/AAAAAAAAAAI/AAAAAAAAAAA/Q5RmxVSnAZs/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
           "relative_time_description": "2 months ago",
-          "text": "This is a great tourist place. I visited this place with my family and had a lot of fun!!\n\n We place a game of matching pictures with provinces and got free stickers, badges and temporary tattoos!\n\nIt's a perfect length walk and usually very busy! It is super pretty at night! I wish it was open a little bit later!\n\nIf you're new in Vancouver you shortly definitely visit this place!",
-          "time": 1579500143
+          "text": "An iconic global centre of the world that has inspired the world with its brilliant architecture, movies, and art. Also known as the Big Apple, New York is well-known for its magnificent skyscrapers, Broadway shows and beautiful landmarks, making it the perfect destination for travellers from all over the world. From the flashy neon lights and the hustle and bustle of Times Square to the skyscrapers of Wall Street and the verdant ways of Central Park, New York City never ceases to amaze with its energy and vibrancy. World-class exhibition halls like MoMA and exceptional world heritage sites like the Statue of Liberty are simply captivating. Broadway shows, ethnic enclaves and shops, memorable lanes of stately brownstones, in vogue bars and diners all add to the urban buzz. This modern city is home to millions of immigrants and is cosmopolitan in a way no other city can be.",
+          "time": 1581591141
+        },
+        {
+          "author_name": "Sajid Decosta",
+          "author_url": "https://www.google.com/maps/contrib/118276618304577157409/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-he2uqSbPajg/AAAAAAAAAAI/AAAAAAAAAAA/XrzeuIcV3xk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "An iconic global centre of the world that has inspired the world with its brilliant architecture, movies, and art. Also known as the Big Apple, New York is well-known for its magnificent skyscrapers, Broadway shows and beautiful landmarks, making it the perfect destination for travellers from all over the world. From the flashy neon lights and the hustle and bustle of Times Square to the skyscrapers of Wall Street and the verdant ways of Central Park, New York City never ceases to amaze with its energy and vibrancy. World-class exhibition halls like MoMA and exceptional world heritage sites like the Statue of Liberty are simply captivating. Broadway shows, ethnic enclaves and shops, memorable lanes of stately brownstones, in vogue bars and diners all add to the urban buzz. This modern city is home to millions of immigrants and is cosmopolitan in a way no other city can be.",
+          "time": 1578079734
+        },
+        {
+          "author_name": "Keaton Terry",
+          "author_url": "https://www.google.com/maps/contrib/102322043774831144568/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-BuGbCcXZOQ0/AAAAAAAAAAI/AAAAAAAAAAA/ySgxOZOrdzY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 months ago",
+          "text": "Seeing it from the outside is beautiful but after going up into it, the views are perhaps even more beautiful than the building itself. Not the most prominent building in New York but certainly one of the most spectacular. Its Art Deco style is very similar to that of the Empire State Building, with a rectangular lower half that narrows into a cone, ending with a spire at the top.",
+          "time": 1580390919
+        },
+        {
+          "author_name": "Pedro Fins",
+          "author_url": "https://www.google.com/maps/contrib/106906832198364900037/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-Z2B7XbD5XAo/AAAAAAAAAAI/AAAAAAAAAAA/0SDRh6NEn0Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "The most beautiful building in NYC. It's pure Artdeco. With a timeless architecture it's roof it's beautiful at night and even during the day. It's mythical. You can enter inside the lobby and observe the walls made of marble and metal.\nThere is not and observatory. It's a shame! I would love to go up and see the perspective from there.",
+          "time": 1582035258
+        },
+        {
+          "author_name": "Gerlando Termini",
+          "author_url": "https://www.google.com/maps/contrib/100331063121536385253/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-c6l2QMhSy9g/AAAAAAAAAAI/AAAAAAAAAAA/FJzeukVg8oc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "My eye doctor has his office in this building.  I must say I have never been able to go all the way to the top, but the view must be breathtaking, with Grand Central station close by and all the other buildings close by, including the new skyscraper on Vanderbilt avenue. The entrance on 42nd street is usually clean, even though it's always busy, with tourists, the subway entrance and people who work in the building. But don't get discouraged.",
+          "time": 1582044001
         }
       ]
     },
     "status": "OK"
   },
-  "Vancouver Christmas Market": {
+  "Times Square": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.2892151,
-          "lng": -123.1176907
+          "lat": 40.7579747,
+          "lng": -73.9855426
         },
         "viewport": {
           "northeast": {
-            "lat": 49.2902734802915,
-            "lng": -123.1161293197085
+            "lat": 40.76098665,
+            "lng": -73.9834256
           },
           "southwest": {
-            "lat": 49.2875755197085,
-            "lng": -123.1188272802915
+            "lat": 40.75504125,
+            "lng": -73.98768480000001
           }
         }
       },
-      "name": "Vancouver Christmas Market",
-      "place_id": "ChIJaVyqoX5xhlQR9_N2ZiMx1Vw",
-      "rating": 3.8,
+      "name": "Times Square",
+      "place_id": "ChIJmQJIxlVYwokRLgeuocVOGVU",
+      "rating": 4.7,
       "reviews": [
         {
-          "author_name": "Shawn Ahmadi",
-          "author_url": "https://www.google.com/maps/contrib/107860671677721138385/reviews",
+          "author_name": "Mick Augustyn",
+          "author_url": "https://www.google.com/maps/contrib/104856277601075555125/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-yWp_AMLEWI4/AAAAAAAAAAI/AAAAAAAAAAA/SPGXd95yq04/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-TM94dkGiL1M/AAAAAAAAAAI/AAAAAAAAAAA/7hW_F9QxJ4U/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "It has some of the largest video boards I have ever seen.  They are so clear and you can see them from blocks away.  There are many large national chains there. The street performers are very entertaining and like to have crowd participation.  You will see people from all walks of life and many countries.  It is a great place to people watch",
+          "time": 1583525707
+        },
+        {
+          "author_name": "Nicole Malave",
+          "author_url": "https://www.google.com/maps/contrib/104849501509664088240/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-Fgf7tr6SFZU/AAAAAAAAAAI/AAAAAAAAAAA/yusY4-vD7CE/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
           "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "Took my nephew this year and had an amazing time. He's 6 years old and thought it was the greatest thing! There's lots fun free stuff for children to do. We had a blast in the arts n crafts igloo. I highly recommend doing the scavenger treasure hunt (we won a free carousal ride!) Also the berry kinder punch is perfect for those who don't drink alcohol! Great affordable event compared to some of the other events we tried in Vancouver",
-          "time": 1575320933
+          "relative_time_description": "a month ago",
+          "text": "Times Square is just magical! This place must be in your bucket list\u2764\ufe0f Is beautiful, breathtaking and so different. It has so many places to visit. Some many restaurant options, spots to take amazing pictures, shopping for everyone. You will definitely fall in love with Times Square, just like I did\ud83d\udc95",
+          "time": 1583778550
         },
         {
-          "author_name": "James Ferris",
-          "author_url": "https://www.google.com/maps/contrib/109558305063673259375/reviews",
+          "author_name": "Dawn Young",
+          "author_url": "https://www.google.com/maps/contrib/117998273538116295684/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-op-Ff2x7F5A/AAAAAAAAAAI/AAAAAAAAAAA/ysOKdao45gU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "3 months ago",
-          "text": "Vancouver Christmas Market...\nWe went today to Experience what we had been told was a great market for the Season. My impression?\nNot that many actual Maker/Sellers.\nAs many food merchants as Craft Marketeers.\nPlus one major retailer - a true German Retail giant. Though entry required at least a half hour line up.\nAnd the displays and Features are fun!\nBut really, is that service and experience worth such an entrance charge? Yes, the fee does allow entry for multiple days. But is there anything worth returning to?\nWell, once is an Experience. And I've had it now.",
-          "time": 1577077944
-        },
-        {
-          "author_name": "Lora H",
-          "author_url": "https://www.google.com/maps/contrib/112154172522699526507/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-jnsSYV3GZqk/AAAAAAAAAAI/AAAAAAAAAAA/WyW3X3vMBuk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "4 months ago",
-          "text": "If you're coming here because you miss the Christmas markets in Europe - don't come here, the prices (of entry & everything inside) will shock you. However, if you've only been to Christmas markets in Vancouver, this is definitely a fun & memorable experience. Many of the stores are European themed, but local products are sold here too so you might find some unique Christmas gifts. The live music with the mulled wine creates quite a cheerful atmosphere which is almost unique to Christmas.\nIt's not a terribly big market, so adults will probably find one visit enough  but families might benefit from the season pass. Regardless, be prepared to make a dent to the wallet at the market.",
-          "time": 1575445081
-        },
-        {
-          "author_name": "Lana",
-          "author_url": "https://www.google.com/maps/contrib/110919537118280576403/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-REcKd94zAFw/AAAAAAAAAAI/AAAAAAAAAAA/cVi7Tedyr1Y/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 2,
-          "relative_time_description": "3 months ago",
-          "text": "I used to LOVE this market. Its entry fee used to be $2, season's pass included. It has gone downhill from there. The vendors got worse (used to be way more German ornament stands). The price keeps going up but what's inside stays the same. And yes, you are not publicly funded neither are most other businesses and they don't hijack their prices to that extent. Honestly, $15 to get in? I used to tell everyone they must go there, I would make several visits a season myself and bring new people with me but over the last few years, this year especially, I found it harder and harder to defend their price increases and the need/want to actually go there. Honestly, I don't recommend it anymore. I feel bad for the vendors as they pay to be there and only have a month to sell off their goods, it's hard for them to keep their prices steady. Some travel in from Europe. Vancouver German Christmas Market, you need to do better. Go back to a smaller venue if needed but prices need to come down if you wish to keep your client base. Sure tourists may go there but the locals are definitely opting out.",
-          "time": 1577216957
-        },
-        {
-          "author_name": "Paula Rexforth",
-          "author_url": "https://www.google.com/maps/contrib/109012832580279361466/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-qmXU1pneKK0/AAAAAAAAAAI/AAAAAAAAAAA/HQLE2xnkyL4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "profile_photo_url": "https://lh4.ggpht.com/-akWs7Egm9E4/AAAAAAAAAAI/AAAAAAAAAAA/jSDjrrGIps8/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "Lovely place! Amazing what they have put together. You will defiantly find your heart\u2018s desire there! The wide choice of food and beverage will blow your mind. In my opinion it\u2019s even worth going there on a rainy day, since there is plenty of space where you can sit inside, stand by the fire and enjoy your hot drink. Extremely family friendly as well! The people are so kind that you don\u2019t have a choice but to go home with a smile on your face. That\u2019s what it\u2019s all about :)",
-          "time": 1576213165
+          "relative_time_description": "a month ago",
+          "text": "I just had a really great time. The food was awesome. There was something to see all the time, something was always going on.  Very interesting people from all aspects of life. People were in costumes looking good and doing their own thing.  I just loved it.",
+          "time": 1584274185
+        },
+        {
+          "author_name": "Krishan Aishpunani",
+          "author_url": "https://www.google.com/maps/contrib/109652300024970298671/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-cNwwxxHniuI/AAAAAAAAAAI/AAAAAAAAAAA/5PqN6M4CoJo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Excellent Mind blowing place. full of Skyscraper building all around. one can spend whole day time here without being bored.\nNight at Time square is awesome.Hotels, food and shopping outlets & other shop all around can be seen. \nlightning and shops will cheers you during night and evening time. never sleep city of country USA\nmany food restaurants are there, people from all around the world can be seen here. New York has its own charm. its on 7th Avenue. \nmany subways are there for commute. Tourist buses run time to time and can be available on spot or online. NJ Transits are available connecting New Jersey. I loved enjoying coming from Ramsay New jersey to Penn Station New York. Overall amazing place i visited in Sep 2010.",
+          "time": 1584428237
+        },
+        {
+          "author_name": "Sonia Russi",
+          "author_url": "https://www.google.com/maps/contrib/115744061010697160724/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-Fjw7cH6q_Y8/AAAAAAAAAAI/AAAAAAAAAAA/gXqTm_vytO0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "The iconic Time Square. I have always wanted to go and I achieved my goal to come. There\u2019s so many different apps and restaurants to go to. So many interesting people. It is filled with life. Truly shows that New York is the city that never sleeps.",
+          "time": 1580706687
         }
       ]
     },
     "status": "OK"
   },
-  "Stanley Park": {
+  "St. Patrick's Cathedral": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.30425839999999,
-          "lng": -123.1442522
+          "lat": 40.7586117,
+          "lng": -73.9761953
         },
         "viewport": {
           "northeast": {
-            "lat": 49.31845509999999,
-            "lng": -123.13134515
+            "lat": 40.7598680302915,
+            "lng": -73.97458054999998
           },
           "southwest": {
-            "lat": 49.28564750000002,
-            "lng": -123.14855455
+            "lat": 40.7571700697085,
+            "lng": -73.97775315
           }
         }
       },
-      "name": "Stanley Park",
-      "place_id": "ChIJo-QmrYxxhlQRFuIJtJ1jSjY",
+      "name": "St. Patrick's Cathedral",
+      "place_id": "ChIJUW4vEPxYwokRW6o24DU0YIg",
       "rating": 4.8,
       "reviews": [
         {
-          "author_name": "Chels",
-          "author_url": "https://www.google.com/maps/contrib/100574352068099040023/reviews",
+          "author_name": "Evina Milenova",
+          "author_url": "https://www.google.com/maps/contrib/116091681553759014614/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-zq-fccHUYP8/AAAAAAAAAAI/AAAAAAAAAAA/1FYkKwOZScw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-sfgo-J-JX-A/AAAAAAAAAAI/AAAAAAAAAAA/r0HsMS5-odI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
           "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Beautiful spot, you are able to get to this spot without needing a car since the bussing system can take you there. Great easy walk to get the full views of Vancouver. You can see the sea wall and the city skyline with just one easy walk. Lots of parking if you do take a car. There were people landing planes in the water when we were there, pretty interesting to watch. They have bike lanes and walking lanes for safety",
-          "time": 1584300929
+          "relative_time_description": "2 months ago",
+          "text": "When I was in New York for the first time in 2016 we passed through the church with friends but they didn't want to go inside. For four years I couldn't erase it from my mind and I regretted for not visiting it. I don't even know why. I didn't know anything about the church before. Never heard anything of it but it seems important in some ways to me because it was the first thing I visited after I returned to New York. That never happened to me before. I spent about an hour there before they closed and I was amazed how hard work and love and dedication they put into it. It\u2019s art. And it\u2019s so quiet and peaceful compared to crazy Manhattan. It makes you feel safe, peaceful, honored. I am not very religious or anything but this was a special moment. So I highly recommend visiting it and try to appreciate your life. I don\u2019t think you\u2019ll be sorry. It\u2019s free, photos are allowed and it\u2019s one of the best things ever.",
+          "time": 1579809509
         },
         {
-          "author_name": "Russ Lacuata",
-          "author_url": "https://www.google.com/maps/contrib/103464758035032588945/reviews",
+          "author_name": "Deviant Angel",
+          "author_url": "https://www.google.com/maps/contrib/118382341967512202038/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-aWiEAb0xc48/AAAAAAAAAAI/AAAAAAAAAAA/A_B9Kr15lbk/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-G6I8K__lOI0/AAAAAAAAAAI/AAAAAAAAAAA/c93cMVL2UVo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
           "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Ideally located on a peninsula at the northwestern edge of downtown Vancouver, Stanley Park is one of the city\u2019s main tourist destination. Featuring lovely beaches, miles of well maintained paved and dirt trails, Canada\u2019s largest aquarium and an array of can\u2019t miss kids friendly spots. It is recognized as one of the greatest urban parks in the world.",
-          "time": 1584113660
+          "relative_time_description": "2 months ago",
+          "text": "Absolutely amazing! Be prepared for large crowds and lines, but lines move relatively fast. It is definitely worth the wait whether you are religious or not it is something to see. Please be respectful when going it is a cathedral and they do services there. People come to pay their respects to those passed at the beautiful statues through out the church as well as come to go to the services and pray.",
+          "time": 1581943659
         },
         {
-          "author_name": "Giovanna Dominguez Timor",
-          "author_url": "https://www.google.com/maps/contrib/105903375052539138485/reviews",
+          "author_name": "E DuPerier",
+          "author_url": "https://www.google.com/maps/contrib/100448461210327131516/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-lBHfzk41Gh8/AAAAAAAAAAI/AAAAAAAAAAA/-ZsVY0aiz6k/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-xi_Cch5Oso0/AAAAAAAAAAI/AAAAAAAAAAA/fZMGBdTWJ1U/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
           "rating": 5,
           "relative_time_description": "a month ago",
-          "text": "Fantastic Green Space with a wonderfully maintained aquarium that is the gold standard for how aquariums should be managed. A must visit for a walk along the sea wall while looking at the cedars stretching toward the sky. The little mermaid waits by the water.",
-          "time": 1583884000
+          "text": "Majestic icon in NYC. We visited on a Saturday and were pleased to see people understanding the reverence of this cathedral. (So many time tourists disregard the fact it is a church!). Beautifully ornate and they have several areas for lighting candles for prayer intentions. A gift shop is located just down 51st street. If you\u2019re a Catholic, this should be a must-see.",
+          "time": 1583767534
         },
         {
-          "author_name": "David Yelligadu",
-          "author_url": "https://www.google.com/maps/contrib/113332686824043743996/reviews",
+          "author_name": "Daniel Baikoff",
+          "author_url": "https://www.google.com/maps/contrib/106921786441615545658/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-UxsDedo3w6o/AAAAAAAAAAI/AAAAAAAAAAA/Cn3nd5LJW_c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-R0X_u-4b2a4/AAAAAAAAAAI/AAAAAAAAAAA/FEP6ywMgL30/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
           "rating": 5,
           "relative_time_description": "a month ago",
-          "text": "A very beautiful and massive park. We rented bikes from the vicinity and rode around the whole park. Lots of opportunities to take some excellent pictures with beautiful views. Also took the hop on- hop off bus and it goes right through the park and you can see lots of beautiful views. will definitely go ride through this park again.",
-          "time": 1582167004
+          "text": "One of the Great Historic Places in the city you should not miss. \nTry to research and get inside while they perform service. Usually its pretty crowded, so come earlier, and enjoy the majesty and great architecture.\nThe St. Patrick's Cathedral is aesthetically pleasing place and located in the heart of the city on Fifth Ave right across Rockefeller Center, which is another great tourist attraction place.",
+          "time": 1584540248
         },
         {
-          "author_name": "Connor Lockhart",
-          "author_url": "https://www.google.com/maps/contrib/105040826263197303733/reviews",
+          "author_name": "Chris Scholl",
+          "author_url": "https://www.google.com/maps/contrib/110447310107467067602/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-APc2_KjvBdQ/AAAAAAAAAAI/AAAAAAAAAAA/3NYFR-L2zSA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-WxTQK24Hh74/AAAAAAAAAAI/AAAAAAAAAAA/Zxbqvpfb6CY/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
           "relative_time_description": "a month ago",
-          "text": "Love drives around the seawall, Stanley Park is an amazing gem within driving distance for anyone in the lower mainland. The sunsets across the inlet are amazing and the air is crisp and fresh. Make sure you visit this wonderful attraction if you get the chance!",
-          "time": 1584316892
+          "text": "A beautiful piece of history.  A must-visit landmark for residents and tourists alike. Friendly and welcoming staff, breath-taking works of art, sculptures, stained glass and environment. It doesn't matter whether you're stopping by for a service, to pray, or to just marvel in the astonishing architecture and craftsmanship.  St. Patrick's Cathedral is a must-see stop for anyone!",
+          "time": 1582814882
         }
       ]
     },
     "status": "OK"
   },
-  "Canadian Memorial United Church": {
+  "Madame Tussauds New York": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.25742150000001,
-          "lng": -123.1467292
+          "lat": 40.7564269,
+          "lng": -73.9888338
         },
         "viewport": {
           "northeast": {
-            "lat": 49.2586521302915,
-            "lng": -123.1453843697085
+            "lat": 40.7578567802915,
+            "lng": -73.98718441970848
           },
           "southwest": {
-            "lat": 49.2559541697085,
-            "lng": -123.1480823302915
+            "lat": 40.7551588197085,
+            "lng": -73.9898823802915
           }
         }
       },
-      "name": "Canadian Memorial United Church",
-      "place_id": "ChIJ0zzPfLxzhlQRGo6-GyqAzcQ",
+      "name": "Madame Tussauds New York",
+      "place_id": "ChIJ8VOfr1RYwokRhil9_pcMKuc",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "author_name": "Julia Demin",
+          "author_url": "https://www.google.com/maps/contrib/102468828477280316234/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-BafCHQf_MDY/AAAAAAAAAAI/AAAAAAAAAAA/1eVwy4AWZFo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Great place.  Time passes unnoticed there.  All celebrities are just as alive.  Very interesting and we really liked it.  It\u2019s good to come there with the whole family.  You will not regret the money spent.  A lot of fun and lots of beautiful celebrity photos. Thank you",
+          "time": 1584454493
+        },
+        {
+          "author_name": "Hasna",
+          "author_url": "https://www.google.com/maps/contrib/102497178509924837430/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-K-s4-A3LZiE/AAAAAAAAAAI/AAAAAAAAAAA/MDQ51VVJVQs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "First time and it\u2019s worth the money and experience. I loved it! I wished it wasn\u2019t over crowded though It was a weekend. I\u2019m sad that I missed a floor and a few sections because it was big. Saw many of my favourites actors and actresses. Definitely worth the wait in the line which is about 10 minutes not even.",
+          "time": 1583987229
+        },
+        {
+          "author_name": "Amber Evans",
+          "author_url": "https://www.google.com/maps/contrib/109895296139885310050/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-CPEv_o_MSgo/AAAAAAAAAAI/AAAAAAAAAAA/78rckhg6O04/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "An absolutely AMAZING experience!! This place was SO cool, they have everyone from actors, presidents, writers, superheros, the list goes on and on. All of the wax figures are SO well done. Some of them are so good that they seem real. I would be lying if I said I didn't mistake a wax figure for a real person during my tour.",
+          "time": 1581264675
+        },
+        {
+          "author_name": "Aaron Rich",
+          "author_url": "https://www.google.com/maps/contrib/103338769278781192736/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-TvH1fMgtlzU/AAAAAAAAAAI/AAAAAAAAAAA/QCnXGehzVkA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Absolutely loved this experience!!! The Groupon voucher helped with the price also. Definitely a place to visit while you are in New York Times Square. Me and my fiance spent 3 hours exploring and taking pictures and interacting with the wax figures. So many different exhibits. Would recommend to anyone visiting Times Square.",
+          "time": 1579291903
+        },
+        {
+          "author_name": "diana marceta",
+          "author_url": "https://www.google.com/maps/contrib/111091297522350351713/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-YXt_4WbXMi4/AAAAAAAAAAI/AAAAAAAAAAA/goLU8I8fKVA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 months ago",
+          "text": "Very nice experience. Lots of fun. You can take pictures with wax figures (leaders, singers, movie stars) and these will be a beautiful memory. Some of the performances are perfect, others a little smaller. Good markings and great information regarding figures. Find out something new. Very interesting. Visiting somewhere between two and three hours.",
+          "time": 1576965852
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "M&M'S World": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7601999,
+          "lng": -73.9843601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7614161802915,
+            "lng": -73.98303161970848
+          },
+          "southwest": {
+            "lat": 40.7587182197085,
+            "lng": -73.9857295802915
+          }
+        }
+      },
+      "name": "M&M'S World",
+      "place_id": "ChIJHfPuClZYwokRP2wzLQjhuEI",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "author_name": "Kelley Wright",
+          "author_url": "https://www.google.com/maps/contrib/101621060097821763242/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-qcATd_0HsNY/AAAAAAAAAAI/AAAAAAAAAAA/fCgATIS3w7U/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I couldn't ask for more! This Playroom was stunning for me and for my kids. They love to come back again. I am deeply impressed by how they handled their many customers politely with no hassles at all. Such a wonderful day spent at this fantastic place. It was a nice experience for me for the first time. Terrific!",
+          "time": 1583883982
+        },
+        {
+          "author_name": "Nathan Pedro",
+          "author_url": "https://www.google.com/maps/contrib/117925347367301631316/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-k03V13-S3mY/AAAAAAAAAAI/AAAAAAAAAAA/RWA6Bv7n1-E/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Cashiers seemed occupied with each others social lives. Store was pretty neat. Had a greater at the base of the elevator give us the rundown on the 3 floors. Everything was fully stocked and appealing.\nI got a chance to get a pound of M&Ms from their M&M wall. There are all sorts of flavors. I got some cheesecake, peanut butter, peanut filled, coffee, toffee, and dark chocolate. Although $7.99 a half pound, it was cool to see all those flavors. I think I'd only go back for souvenirs for family members.",
+          "time": 1583720363
+        },
+        {
+          "author_name": "diana marceta",
+          "author_url": "https://www.google.com/maps/contrib/111091297522350351713/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-YXt_4WbXMi4/AAAAAAAAAAI/AAAAAAAAAAA/goLU8I8fKVA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Here is really a huge range of M&M products. The store has three floors. There is a wall with many pillars filled with M&M candies of all colors. Really fantastic. You can also find beautiful clothes, cups and other souvenirs of M&M. The atmosphere is great. This is super fun shopping. I highly recommend to anyone who loves M&M.",
+          "time": 1584049859
+        },
+        {
+          "author_name": "Sonam",
+          "author_url": "https://www.google.com/maps/contrib/115714300152534258580/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-5igYgaR8V7Y/AAAAAAAAAAI/AAAAAAAAAAA/I9EtIZWamaA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "M&M chocolates and it\u2019s gems are like mouth watering. The ambience of this place is happening especially for kids and youth. Parents should visit this place at least once to enjoy M&m characters in every way. There are soft toys, show pieces, Different flag colours gems, cups memoirs. Love for this place. A huge colourful showroom with lot of interactive games, like finding the candy mood. Filling up your own jars with Chocolates of your colour. \ud83d\udc95\ud83d\udc9d",
+          "time": 1581620891
+        },
+        {
+          "author_name": "Michael Baranowski",
+          "author_url": "https://www.google.com/maps/contrib/100772968237847443188/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-udtjIgXKOb8/AAAAAAAAAAI/AAAAAAAAAAA/WbtLuv7HRx0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I had a sweet time in this tasty tasty store.  I was like a kid in a candy shop.   They have these awesome statues of the M&M characters, a huge number of souvieneers and a spot where you can customize your own M&MS and also on the second floor you can pick your own.  Be ready to spend money but you will have an awesome experience that will melt in your mouth not in your hands.",
+          "time": 1583260823
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Central Park": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7828647,
+          "lng": -73.9653551
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81804399999999,
+            "lng": -73.9339825
+          },
+          "southwest": {
+            "lat": 40.74734159999999,
+            "lng": -73.9970305
+          }
+        }
+      },
+      "name": "Central Park",
+      "place_id": "ChIJ4zGFAZpYwokRGUGph3Mf37k",
       "rating": 4.8,
       "reviews": [
         {
-          "author_name": "Maria Newman",
-          "author_url": "https://www.google.com/maps/contrib/105786731730797328294/reviews",
+          "author_name": "Corey Aldridge",
+          "author_url": "https://www.google.com/maps/contrib/116103225537846738969/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-kNa3H8CEpX4/AAAAAAAAAAI/AAAAAAAAAAA/I1RWHugWlsg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "Wonderful acoustics.  Great repertoire and celestial singing voices all the way from Cornell University,  Ithaca,  NY!",
-          "time": 1578803935
-        },
-        {
-          "author_name": "Church Goer",
-          "author_url": "https://www.google.com/maps/contrib/111621749036447003870/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-flbBltDCapQ/AAAAAAAAAAI/AAAAAAAAAAA/tQGI5kaIDaQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "profile_photo_url": "https://lh4.ggpht.com/-EMfX05VoKm4/AAAAAAAAAAI/AAAAAAAAAAA/OuvMS-aTgI0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
           "rating": 5,
           "relative_time_description": "a month ago",
-          "text": "Got a tour. Missed the service. Beautiful church. Nice people.",
-          "time": 1582573735
+          "text": "Beautiful park and world famous.  The park is absolutely massive and would recommend you take at least half a day to walk through just some of the many paths the park has on offer.  Amazingly calm place to be in the middle of all the hustle and bustle of America\u2019s biggest city!!",
+          "time": 1582944444
         },
         {
-          "author_name": "Elena Tolkacheva",
-          "author_url": "https://www.google.com/maps/contrib/101225828753435880190/reviews",
+          "author_name": "Christian Avila Cri",
+          "author_url": "https://www.google.com/maps/contrib/107500818936117935288/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-0m1Uh5-jQ5w/AAAAAAAAAAI/AAAAAAAAAAA/jVFNAaLJiok/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-CFId7bjTqOc/AAAAAAAAAAI/AAAAAAAAAAA/IELawutK-AI/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
           "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "Occasionally it holds West coast Symphonic orchestra concerts, that's why I go there",
-          "time": 1576530821
+          "relative_time_description": "a month ago",
+          "text": "Great and giant park. A place to walk and do excercises. Picnic and excellent pictures.. it's so good to see places from our favorite movies. Just use Google maps to know where you are. Just be careful It's easy to be lost in thousands of different roads. Great to see during winter summer spring or autumn. Any time of the year.\n\nOne of my top 10 things to do in New York city\n\nMy suggestion to everyone \nIf you can start from Columbus Circle metro station. Nice views of Manhattan and central park. Grab some food from whole foods market and start to walk through central park. Bethesda fountain top 1 places to know!",
+          "time": 1584035520
         },
         {
-          "author_name": "Patricia Turner",
-          "author_url": "https://www.google.com/maps/contrib/113103097871237763951/reviews",
+          "author_name": "Heiko Gehrig",
+          "author_url": "https://www.google.com/maps/contrib/103049555580924117313/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-Eo9pDfcsJh0/AAAAAAAAAAI/AAAAAAAAAAA/T3NZRG4LJ7w/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "profile_photo_url": "https://lh4.ggpht.com/-oyhCmUOpc5k/AAAAAAAAAAI/AAAAAAAAAAA/cl-CLC4olPY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
           "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "This is an open minded and forward thinking congregation. They are warm and friendly and welcoming to all.  Come as you are there's no judgement.  No matter your belief or scepticism...they are happy to meet you.",
-          "time": 1574290240
+          "relative_time_description": "a month ago",
+          "text": "Wonderful, huge park in the middle of Manhattan.  Even though it\u2019s in the middle of one of the most densely populated areas in the U.S.A., you can still find quite areas of the park to relax. \n\nVery well maintained, there\u2019s an abundance to do, from baseball parks, a zoo, in addition large open fields to peaceful walking paths.",
+          "time": 1584520345
         },
         {
-          "author_name": "Steve Quinn",
-          "author_url": "https://www.google.com/maps/contrib/109938512775844069951/reviews",
+          "author_name": "Jolene Stahn",
+          "author_url": "https://www.google.com/maps/contrib/103579957491410786911/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-mBN7pB5oGxk/AAAAAAAAAAI/AAAAAAAAAAA/bKokHNTBuCo/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "profile_photo_url": "https://lh6.ggpht.com/-XzsfAmFtQoA/AAAAAAAAAAI/AAAAAAAAAAA/jmAmowx3oA4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
           "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "The stain glass windows alone will bring you joy!\nOnce the room erupts in song the acoustic pleasure is all yours to enjoy!",
-          "time": 1573948890
+          "relative_time_description": "a month ago",
+          "text": "Beautiful park year round! Great spot to explore as a tourist or run, walk, bike or bring your dog if you are a local! LOVE strawberry fields John Lennon\u2019s memorial. \nImagine all the people living life in peace. \u262e\ufe0f\ud83d\udc9f",
+          "time": 1584654712
+        },
+        {
+          "author_name": "Gustavo Ariel Salatino Schwamberg",
+          "author_url": "https://www.google.com/maps/contrib/117448633565732319548/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-9JAymuWy1Ow/AAAAAAAAAAI/AAAAAAAAAAA/yxgwLzbBLAk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Beautiful park, very well maintained. Everybody enjoying this wonderful green space in the middle of one of the most incredible cities in the world. For those whom enjoy running, this is a perfect place to add miles and free your mind from the troubles of the day.",
+          "time": 1583833611
         }
       ]
     },
     "status": "OK"
   },
-  "Harbour Centre": {
+  "Hell Gate Bridge": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.28475639999999,
-          "lng": -123.1118716
+          "lat": 40.7825959,
+          "lng": -73.9219127
         },
         "viewport": {
           "northeast": {
-            "lat": 49.2861200802915,
-            "lng": -123.1106760197085
+            "lat": 40.78394488029149,
+            "lng": -73.9205637197085
           },
           "southwest": {
-            "lat": 49.2834221197085,
-            "lng": -123.1133739802915
+            "lat": 40.78124691970849,
+            "lng": -73.9232616802915
           }
         }
       },
-      "name": "Harbour Centre",
-      "place_id": "ChIJX8BlXXhxhlQRO73GDVzNf5c",
+      "name": "Hell Gate Bridge",
+      "place_id": "ChIJ85xGu1lfwokRVClYsUw2OlE",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "author_name": "georgi petrov",
+          "author_url": "https://www.google.com/maps/contrib/103757969099018571109/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-50jEgzT7H8M/AAAAAAAAAAI/AAAAAAAAAAA/veqZDUoEn3g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Amazing steel arch bridge.  There is a fantastic bike lane under the approach spans on Randals Island.",
+          "time": 1584418172
+        },
+        {
+          "author_name": "J L",
+          "author_url": "https://www.google.com/maps/contrib/100068174967490298239/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-IGKHnB5RjIs/AAAAAAAAAAI/AAAAAAAAAAA/r1sTH_Z5WIY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "A masterpiece of architecture! Great place to explore and experience. Astoria park is a beautiful place.",
+          "time": 1575234683
+        },
+        {
+          "author_name": "Squid Cena",
+          "author_url": "https://www.google.com/maps/contrib/110971911359433038171/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-YZ4ITKToNRo/AAAAAAAAAAI/AAAAAAAAAAA/HjaDnEvyfSw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "An amazing and beautiful bridge to see from the triborough bridge.",
+          "time": 1583382818
+        },
+        {
+          "author_name": "Jamaica Hills",
+          "author_url": "https://www.google.com/maps/contrib/102031019378214051532/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-CG3_iuvordU/AAAAAAAAAAI/AAAAAAAAAAA/0SIF-bkheXk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "6 months ago",
+          "text": "Such an amazing view with the breeze from the river and view of Manhattan on the left side. \nThe best view of the bridge is from Astoria Park. This bridge hold a train line, if you view the bridge from the Astoria Park other side of the river will be Randall island (which basically have a playground and couple of ship docking area) \n\nBehind the bridge you will see John F Kennedy bridge or Tri-borough bridge",
+          "time": 1570398913
+        },
+        {
+          "author_name": "Anamul Haque",
+          "author_url": "https://www.google.com/maps/contrib/112464913205991292584/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-kn524zs2798/AAAAAAAAAAI/AAAAAAAAAAA/wl1nTNmRSks/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 years ago",
+          "text": "Great place for a photo. Lest touristy then other NYC bridges. Best place to see the bridge is at the Randall's Island side",
+          "time": 1511988094
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "The Loeb Boathouse": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7753313,
+          "lng": -73.9687344
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7763431,
+            "lng": -73.9675362197085
+          },
+          "southwest": {
+            "lat": 40.7722959,
+            "lng": -73.97023418029151
+          }
+        }
+      },
+      "name": "The Loeb Boathouse",
+      "place_id": "ChIJm17AB5pYwokRWLJ6lEtXKOA",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "author_name": "Charles Ednie",
+          "author_url": "https://www.google.com/maps/contrib/115065171368016852786/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-UsgtUtvLEAM/AAAAAAAAAAI/AAAAAAAAAAA/bbB5Kn2ZAK0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Subsequent to my sons wedding, we went to the Boathouse for a small luncheon with our immediate family and my new and wonderful daughter-in-law and her family. It was a great experience. The company was fantastic, the appetizers were delicious, only to be outdone but the fabulous main course, and the desert was tremendous. The staff was excellent. They were very attentive to our needs and desires. Service was excellent!\n\nOur group had a wonderful view of the lake from our table but it soon became a minor problem as the sun was shining through the window into the eyes of about half of the guests. It was requested that the exterior awnings be lowered to provide some shade to the affected guests but we were told that the awnings were in a fixed height position and could not be adjusted downward.\n\nThe inability to provide shade to our table is the only thing that is stopping me from giving 5 stars. I would gladly return to this facility but I would seek a shaded seating location or a room without a view. In all other aspects, our luncheon experience was superb.",
+          "time": 1583545059
+        },
+        {
+          "author_name": "Jessica Halda",
+          "author_url": "https://www.google.com/maps/contrib/101237977772756761523/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-E_E7v06FFsA/AAAAAAAAAAI/AAAAAAAAAAA/gpnsbHFO7wI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "This is a beautiful place with amazing food. We visited on a rainy day in the winter, but were seated by the windows. And even in the rain the views were beautiful! Our waiter was very helpful and friendly. Will definitely come back, hopefully in the summer when there are leaves on the trees and the windows are open!",
+          "time": 1582208133
+        },
+        {
+          "author_name": "Crystalyn Brennan",
+          "author_url": "https://www.google.com/maps/contrib/113309845841696668153/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-JPhbaTCpEKE/AAAAAAAAAAI/AAAAAAAAAAA/8s062mUn5UM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "One of my favorite ways to spend a sunny afternoon.  The key is to order at the counter (prices are MUCH more affordable vs getting table service inside) and bring your food/drink to the outside bar patio. The perfect spot to people watch and enjoy the juxtaposition of skyscrapers and nature.  We had the tuna on rye and an aperol spritz. (Spritz was a little weak but was worth the experience. )",
+          "time": 1582506522
+        },
+        {
+          "author_name": "Matt Auerbach",
+          "author_url": "https://www.google.com/maps/contrib/113542338478362516601/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-PGQINoABDPY/AAAAAAAAAAI/AAAAAAAAAAA/T25gqD5Prx0/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "3 months ago",
+          "text": "Beautiful view of Central Park boating. Nice restaurant with white tablecloth. Arrive early and sit right in front of the pond. Service was great and waiters were friendly. If it\u2019s a nice weekend day, expect a long wait. You clearly come for the view and the food was alright. Lunch menu can be limited \u2014 no salads and not many egg/omelette options.  I got the lox plate. They only have plain bagels and they aren\u2019t the fresh kind from a nyc bagel spot. Tasted like a Thomas Plain bagel. If you are going to charge $28 at least have a decent bagel.",
+          "time": 1578808178
+        },
+        {
+          "author_name": "Meera Jey",
+          "author_url": "https://www.google.com/maps/contrib/106059613251313111855/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-g3fTUso4Mpg/AAAAAAAAAAI/AAAAAAAAAAA/OODFmDxIDyE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "2 months ago",
+          "text": "Beautiful restaurant in the middle of Central Park! Amazing food, and aesthetic. We ordered the crab cake which is unmatched! Must try if you go here. The hostess was rude when we entered and was dismissive. We called ahead of time to make a reservation. Also, noticed that the drinks were watered down, however the waiters were pleasant and kind. Ended up spending 350$ here, but slightly disappointed with the attitude of some of the staff.",
+          "time": 1580410717
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Time Warner Center": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.76850679999999,
+          "lng": -73.9831349
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7699572802915,
+            "lng": -73.9814588
+          },
+          "southwest": {
+            "lat": 40.7672593197085,
+            "lng": -73.98474839999999
+          }
+        }
+      },
+      "name": "Time Warner Center",
+      "place_id": "ChIJ1-edm1hYwokRtqcmk66UT6g",
       "rating": 4.3,
       "reviews": [
         {
-          "author_name": "Dhananjay Chavan",
-          "author_url": "https://www.google.com/maps/contrib/116520311103103861087/reviews",
+          "author_name": "Dut Kasilag",
+          "author_url": "https://www.google.com/maps/contrib/102020440365064635799/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-sjtu9NZ2fk4/AAAAAAAAAAI/AAAAAAAAAAA/m35xyfMI1TQ/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-qJ3qCroBS2I/AAAAAAAAAAI/AAAAAAAAAAA/-41mufQfRQ4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Beautiful mall right on Columbus Circle with several high end shops catering to the more sophisticated shoppers.  The impressive lobby has hanging stars that changes lights every second. Be sure to check out the third floor for some good food.",
+          "time": 1578087264
+        },
+        {
+          "author_name": "Marion NYC",
+          "author_url": "https://www.google.com/maps/contrib/104231099559936710641/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-gds_7R62SoY/AAAAAAAAAAI/AAAAAAAAAAA/yNh5B8rejFk/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
           "rating": 5,
           "relative_time_description": "a month ago",
-          "text": "Great Dining Experience !! Splendid.. must try with your loved ones.. and first timers to the city of Vancouver.. !!\nAmazing views from the top of the city.. and company of your nearest and dearest ones glass of fine wine.. and mouth watering appetizers.. what else you need for the perfect evening..??",
-          "time": 1583907617
+          "text": "Looking for a place to go shopping with tons of stores and great dining around the Columbus Circle area?  Then stop by the Time Warner Center.  They have everything from grocery shopping at WholeFoods to getting some running shoes to Amazon Go to bakeries!  All things in one!",
+          "time": 1582743262
         },
         {
-          "author_name": "Howie Outerbridge",
-          "author_url": "https://www.google.com/maps/contrib/107343627409708317660/reviews",
+          "author_name": "Dirk Robertson",
+          "author_url": "https://www.google.com/maps/contrib/103628349037963130517/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-WldqRJqkEfU/AAAAAAAAAAI/AAAAAAAAAAA/dIYZehnEqPs/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "So much more to Harbour Centre than the revolving restaurant. The food court is huge, lots of choice and places to sit. My two favourite shops are Morgan\u2019s battery store, and Janet\u2019s Sun Tailoring. Janet is the woman to see if you need any alternations made, she has done some amazing work for me and I higher recommend her. Security are on duty and regularly patrol the mall - the centre is clean and safe. Due to its downtown location, the BC liquor store (cold zone) is usually filled with interesting characters; it is small but has all of the essential food groups.",
-          "time": 1580272644
-        },
-        {
-          "author_name": "Laura Sturgeon",
-          "author_url": "https://www.google.com/maps/contrib/117559997636988098476/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-coHhmEDjrHg/AAAAAAAAAAI/AAAAAAAAAAA/zbBm9u3gokQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "Great way to see all of Vancouver at one time. Amazing views. Quick going up. A bit scary going back down, but smooth ride. A bit too expensive but really enjoyed the experience. A must do when in Vancouver. I only went up the tower. I didnt check out any other parts of harbour center.",
-          "time": 1581876827
-        },
-        {
-          "author_name": "J X",
-          "author_url": "https://www.google.com/maps/contrib/107078447103690108035/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-_G3eoRBQwO0/AAAAAAAAAAI/AAAAAAAAAAA/cA91p9LJPow/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "a month ago",
-          "text": "Food was good but a bit overpriced for what you get. 2 people on Valentine\u2019s Day ended up being almost 300 bucks. Mandatory 18% tip too on Valentine\u2019s Day. Has to book well in advance too. \n\nService was fantastic and the views are great. Just pricey.",
-          "time": 1582649908
-        },
-        {
-          "author_name": "Sam Lawal",
-          "author_url": "https://www.google.com/maps/contrib/101577814672008974354/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-emfoDYMSbrw/AAAAAAAAAAI/AAAAAAAAAAA/6o7iFdXW0F0/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-HxDwn3dN7v0/AAAAAAAAAAI/AAAAAAAAAAA/LmkOaMWbsWY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
           "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "Wow we came to vancouver for a convention stop by had an incredible time. Fantastic home made food, authentic, fast service price is awesome and we felt at home. There was a live afrobeat drum band. lots of fun. Thanks for your hospitality. A must visit.",
-          "time": 1581838451
+          "relative_time_description": "7 months ago",
+          "text": "I love this Center. Great variety of high end shops and eateries all contribute to an excellent atmosphere. Great view from the balcony out of the giant glass windows onto Columbus Circle and a slice of Central Park. Two giant male and female, modern art sculptures, stand either side of the escalators, welcoming visitors. It is a tradition to touch them as you pass. The result is very shiny. Neither seem to mind.",
+          "time": 1568519989
+        },
+        {
+          "author_name": "jeff goldberg",
+          "author_url": "https://www.google.com/maps/contrib/102931486094846797215/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-hVEkOp8S-m8/AAAAAAAAAAI/AAAAAAAAAAA/HWf3rZix0CE/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 3,
+          "relative_time_description": "4 months ago",
+          "text": "Lots of shopping options. High end retail stores. Bathrooms. Amazon book store. A few sit down dining choices. Some ultra high end dinner restaurants. Whole Foods is downstairs.",
+          "time": 1576281482
+        },
+        {
+          "author_name": "Gabriele De Gaetano",
+          "author_url": "https://www.google.com/maps/contrib/107200517471120275689/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-34jbifZCZrg/AAAAAAAAAAI/AAAAAAAAAAA/oehYzgSd2hY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "One of my favourite places to visit when in Nyc. A part from the chouce of great restaurants, I like to spend time watching Lincoln Circle and the corner of Central Park 'framed' through the glass windows of the Time Warner Center. From the second level the view is spectacular.",
+          "time": 1582753068
         }
       ]
     },
     "status": "OK"
   },
-  "Dr. Sun Yat-Sen Classical Chinese Garden": {
+  "The Morgan Library & Museum": {
     "html_attributions": [],
     "result": {
       "geometry": {
         "location": {
-          "lat": 49.2797937,
-          "lng": -123.1041038
+          "lat": 40.7492258,
+          "lng": -73.9813971
         },
         "viewport": {
           "northeast": {
-            "lat": 49.2811827302915,
-            "lng": -123.1029038197085
+            "lat": 40.75043193029151,
+            "lng": -73.9801846697085
           },
           "southwest": {
-            "lat": 49.2784847697085,
-            "lng": -123.1056017802915
+            "lat": 40.74773396970851,
+            "lng": -73.98288263029151
           }
         }
       },
-      "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
-      "place_id": "ChIJ8ToMkXpxhlQRYqJG8pg7rQI",
+      "name": "The Morgan Library & Museum",
+      "place_id": "ChIJ3453OAdZwokRja92OOKCugM",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "author_name": "Joshua F",
+          "author_url": "https://www.google.com/maps/contrib/103898612348807374521/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-0trOdliE5h4/AAAAAAAAAAI/AAAAAAAAAAA/-7DL0K3XR6I/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "It is a very nice museum. It\u2019s not so big that you feel like you need to rush but not so small that you\u2019re bored, you can go at a very leisurely pace which is nice. The library is absolutely incredible and is where you have to go. There are so many books and it\u2019s just wild to see what he collected. Nice place to go to and walk around in the middle of the day and then eat at their restaurant in the afternoon. Would recommend going here.",
+          "time": 1578783793
+        },
+        {
+          "author_name": "Margherita Donati",
+          "author_url": "https://www.google.com/maps/contrib/118058592176939994311/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-kN6gMqZjMOg/AAAAAAAAAAI/AAAAAAAAAAA/Gss7jp96Fpc/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "This place is breathtaking. Simple as that. The entrance to the library is free, but the exhibitions have an admittance fee. No matter. They have created a marvelous hub of art, literature and knowledge. And never, ever in my life I would have dreamt that on one rainy day in Manhattan I would come to lay my eyes on a Gutenberg bible. I cannot stress enough how truly exceptional this is. Go. See it. Sit down in that glorious room and just take it all in.",
+          "time": 1579054330
+        },
+        {
+          "author_name": "Toniann Bartscherer",
+          "author_url": "https://www.google.com/maps/contrib/112279912115722236294/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-XYRB3bEOtm8/AAAAAAAAAAI/AAAAAAAAAAA/V1PfCmfM31A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I went to see the John Singer Sargent exhibit. The show was well displayed. The museum is a very nice small gallery in the heart of mid town.\nExcellent bar and cafe inside the museum. I would recommend this gallery for the quality and ease.",
+          "time": 1583197497
+        },
+        {
+          "author_name": "F Cohen",
+          "author_url": "https://www.google.com/maps/contrib/104104321819899539134/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-xQDTvsTBZPY/AAAAAAAAAAI/AAAAAAAAAAA/sgTtDF0rR10/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "For a museum, this is small.  For a home, it is spectacular. The high light is the library but all of the architecture is marvelous.  The museum displays are typically modest but of high-quality. My only quibble is with the cost of admission - but all museums have become pricey. I would not make this a must-see site on your first visit to New York unless you have a specific interest in Morgan.  Nonetheless, it is well worth seeing (and just a short walk from the Empire State Building in case you wish to combine the sites for a day outing.)",
+          "time": 1583165264
+        },
+        {
+          "author_name": "Emily",
+          "author_url": "https://www.google.com/maps/contrib/116390295789771842836/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-3oJyKIg7kCk/AAAAAAAAAAI/AAAAAAAAAAA/cwEPNXKPABA/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "The private library was quite impressive.  See a real Gutenberg Bible, impressive even to an atheist. The docent tour was a great introduction.  We were lucky enough to see the John Singer Sargent show, but there are always several, likely high quality exhibits.  The cafe looked good and the fine dining room, with a priced fixed menu (only open for lunch) looked delicious and like a good place to celebrate and indulge.",
+          "time": 1575776866
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Flatiron Building": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7410605,
+          "lng": -73.9896986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7424280302915,
+            "lng": -73.98821096970849
+          },
+          "southwest": {
+            "lat": 40.7397300697085,
+            "lng": -73.9909089302915
+          }
+        }
+      },
+      "name": "Flatiron Building",
+      "place_id": "ChIJZx8c96NZwokRJklw7SVhKt4",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "author_name": "Sajid Decosta",
+          "author_url": "https://www.google.com/maps/contrib/118276618304577157409/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-he2uqSbPajg/AAAAAAAAAAI/AAAAAAAAAAA/XrzeuIcV3xk/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "An iconic global centre of the world that has inspired the world with its brilliant architecture, movies, and art. Also known as the Big Apple, New York is well-known for its magnificent skyscrapers, Broadway shows and beautiful landmarks, making it the perfect destination for travellers from all over the world. From the flashy neon lights and the hustle and bustle of Times Square to the skyscrapers of Wall Street and the verdant ways of Central Park, New York City never ceases to amaze with its energy and vibrancy. World-class exhibition halls like MoMA and exceptional world heritage sites like the Statue of Liberty are simply captivating. Broadway shows, ethnic enclaves and shops, memorable lanes of stately brownstones, in vogue bars and diners all add to the urban buzz. This modern city is home to millions of immigrants and is cosmopolitan in a way no other city can be.",
+          "time": 1578079787
+        },
+        {
+          "author_name": "Marilyn Koutsonikolas",
+          "author_url": "https://www.google.com/maps/contrib/106386037096522129325/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-gU-vQw0kL2Q/AAAAAAAAAAI/AAAAAAAAAAA/XAuvHmPkRHU/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "This building is absolutely gorgeous and a true NYC landmark. However, if you're planning to go this month (FEB 2020), please know that there is scaffolding in front of it - so photos may not give the same lustre... Either way it's worth going to see it and then going over to Eataly, which is across the road!",
+          "time": 1581401471
+        },
+        {
+          "author_name": "Pedro Fins",
+          "author_url": "https://www.google.com/maps/contrib/106906832198364900037/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-Z2B7XbD5XAo/AAAAAAAAAAI/AAAAAAAAAAA/0SDRh6NEn0Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "This building is so beautiful and stays at the corner of 5th Ave with Broadway. It was the first skyscraper in NYC! You can only watch from outside but you have a beautiful garden at his left. You can lunch and watch squirrels trying to steal food from people.",
+          "time": 1582033887
+        },
+        {
+          "author_name": "Joe Ditmanson",
+          "author_url": "https://www.google.com/maps/contrib/102311839970899688783/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-IkoZ0jHd7hU/AAAAAAAAAAI/AAAAAAAAAAA/MNcqrYs_MiA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "5 months ago",
+          "text": "Going on the Statue of Liberty tour is a good, cheap activity to do with your family/friends. As one of the seven Wonders of the World, it's a great experience to see at least once! Navigating throughout the website to buy the tickets was pretty easy, and we just ended up getting the most basic tickets - ground level. To order the tickets to go on higher levels/inside the Statue of Liberty, you will definitely have to order at least 4-6 months ahead of time.",
+          "time": 1572403874
+        },
+        {
+          "author_name": "Sivan Elkabes",
+          "author_url": "https://www.google.com/maps/contrib/101232692377332719364/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-AZiq2wizylY/AAAAAAAAAAI/AAAAAAAAAAA/HKkWcKETGkI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Very cool iconic building in NYC, did not go inside or anything but the architecture outside is worthy enough to pay this place a visit.",
+          "time": 1583754998
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "The Tour at NBC Studios": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7593651,
+          "lng": -73.98009789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7604551302915,
+            "lng": -73.97862621970849
+          },
+          "southwest": {
+            "lat": 40.7577571697085,
+            "lng": -73.9813241802915
+          }
+        }
+      },
+      "name": "The Tour at NBC Studios",
+      "place_id": "ChIJl61Ywf5YwokRWtmFUFfO_ms",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "author_name": "Billy T",
+          "author_url": "https://www.google.com/maps/contrib/102808859636801229392/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-RKt2hvE-eI0/AAAAAAAAAAI/AAAAAAAAAAA/dLNZ2mS1BRA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "Well first let me explain...  I understand why this attraction came up on my feed but I didn't actually do this tour. I was working as a performer on show at NBC and the tour came through the studio. So I  guess that's why they want me to rate it.  Actually several tours came through our studio (it was a very long day) and every one on the tour listened to the tour guide and we're very respectful by not taking any photos from what I could see. Even I can't take photos inside before showtime. Sometimes when the tour comes through my colleagues and I don't even hear them but we do see them. If you are visiting NYC and want a nice diversion out of the ordinary tourist attractions, come on by and take the tour. You never know who you might see! \ud83d\ude0e",
+          "time": 1581348584
+        },
+        {
+          "author_name": "Christopher Otero",
+          "author_url": "https://www.google.com/maps/contrib/111773273862429552151/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-m8m2JVqsMeM/AAAAAAAAAAI/AAAAAAAAAAA/J8BZxmFMM_s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Quite an unbelievable experience to walk the same halls that many of our favorite television personalities have journey down. I made it a tad late to get tickets for Jimmy Fallon, however I was able to score one to Seth Meyers! I remember studying theatre and watching SNL thinking how cool it is for these entertainers to work at NBC. I love the tribute to all the past and present stars and that mural was surreal.",
+          "time": 1582328914
+        },
+        {
+          "author_name": "Yoann Lussier",
+          "author_url": "https://www.google.com/maps/contrib/108366424979984064344/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-QRscAbAIcXY/AAAAAAAAAAI/AAAAAAAAAAA/58cZKyjos4g/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Proud to have had the pleasure to visit a while back. Getting around with the tour guide really was a blast. It was an experience to remember when you impersonate a newscaster and it gave my friends such a laughter. The sets on display gave a nice idea of the actual show.",
+          "time": 1582868074
+        },
+        {
+          "author_name": "Shawn Tai",
+          "author_url": "https://www.google.com/maps/contrib/114328432503671753486/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-KT10tJhmwiw/AAAAAAAAAAI/AAAAAAAAAAA/CDYsyB-9k94/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "The tour was super nice. Had a sneak-peak into the production of TV programs and the studio of Jimmy Fallon\u2019s show. They even have this program that lets you and all the other people on the tour record your own Tonight\u2019s Show at the end of the tour! The result was super embarrassing but it was hella fun! Would definitely recommend anyone interested in the production of TV shows to take this tour.",
+          "time": 1581946363
+        },
+        {
+          "author_name": "Lhea Jane Socrates",
+          "author_url": "https://www.google.com/maps/contrib/101861127057238281114/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-XDh72Frr8Hg/AAAAAAAAAAI/AAAAAAAAAAA/98YS_8OunXk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "It was fantastic, and one of the highlights of my NYC trip. The guides are so friendly and helpful. The studio where you act like in the TV show was the best. I had so much fun",
+          "time": 1576425971
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Madison Square Park": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.74259989999999,
+          "lng": -73.98777009999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74409214999999,
+            "lng": -73.98618055
+          },
+          "southwest": {
+            "lat": 40.74071195000001,
+            "lng": -73.98982275
+          }
+        }
+      },
+      "name": "Madison Square Park",
+      "place_id": "ChIJp32RvaZZwokRfH0Zgzl9mXk",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "author_name": "Kelvin Ofula",
+          "author_url": "https://www.google.com/maps/contrib/106187296413365901031/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-5Qf_8zg-xlU/AAAAAAAAAAI/AAAAAAAAAAA/eElS_EtTtyI/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "A beautiful park with beautiful views of some of the most iconic buildings in New York. From the park you can see the Empire State Building and the Flatiron Building. The park is pet friendly \ud83d\udc08 \ud83d\udc15 with areas designated for pets to play. There's a burger joint with one of the most amazing burgers I've ever had. It's relatively small so if you want a huge space to run or play with your pets then I suggest another park. There are numerous public benches where you can sit and relax. \n\ud83d\udc31\ud83d\udc15\u200d\ud83e\uddba\ud83e\uddae\ud83d\udc29\ud83e\uddbd\ud83e\uddbc",
+          "time": 1582692042
+        },
+        {
+          "author_name": "Dylan King",
+          "author_url": "https://www.google.com/maps/contrib/112140169679552578512/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-OBcBQPd1Lrs/AAAAAAAAAAI/AAAAAAAAAAA/LsADU2Iuuho/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "One of my favorite places in the city. Come summer you have to enjoy all of the performers and people enjoying the green space. It's lovely and has a dog park and chess tables. Nice restaurants nearby and a minor escape from the hustle and bustle of NYC living.",
+          "time": 1583822024
+        },
+        {
+          "author_name": "lisa scott",
+          "author_url": "https://www.google.com/maps/contrib/101151432844709100051/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-6lOzpl5A3jw/AAAAAAAAAAI/AAAAAAAAAAA/cubxdUuuMg4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "This is a beautiful park with the added bonus of having a Shake Shack so that you can rest and find a tasty snack all in one place. We like to walk our dog here where we meet lots of other small dog owners. It's a nice alternative to dog runs. People you meet may not remember your name but your dog's name will be remembered.",
+          "time": 1577634964
+        },
+        {
+          "author_name": "Mother Bean",
+          "author_url": "https://www.google.com/maps/contrib/113259906249119748926/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-4iQqgN7eguQ/AAAAAAAAAAI/AAAAAAAAAAA/9rUTBhbOP-Q/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "This is literally my favorite area in NYC. There is so much going on that you can come here everyday and see a new store. The park is GORGEOUS and always well kept. There's food inside and outside of the park. I love going to Eatly across the street, getting food, and having a picnic at the park! The fountains are so pretty and the flowers are colorful and beautiful as well. I always stop here on my trips to NYC. Definitely a must see!",
+          "time": 1578528691
+        },
+        {
+          "author_name": "Mag Ch",
+          "author_url": "https://www.google.com/maps/contrib/108994723445366222954/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-kgfYf-hfhEY/AAAAAAAAAAI/AAAAAAAAAAA/tOPdYU4lsQg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "2 months ago",
+          "text": "Love this place during the summer. When all the fields are open.. feel more safe to watch my 2 kids when you have closed space.. can't wait for the fields to open in May",
+          "time": 1580247212
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Trump Tower": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7624284,
+          "lng": -73.973794
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7636939802915,
+            "lng": -73.97267446970848
+          },
+          "southwest": {
+            "lat": 40.7609960197085,
+            "lng": -73.97537243029149
+          }
+        }
+      },
+      "name": "Trump Tower",
+      "place_id": "ChIJrc9T9fpYwokRdvjYRHT8nI4",
+      "rating": 3.6,
+      "reviews": [
+        {
+          "author_name": "Steve",
+          "author_url": "https://www.google.com/maps/contrib/106740845827278873381/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-xLWWeJhNhic/AAAAAAAAAAI/AAAAAAAAAAA/lmbuNvy-7Cs/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Trump Tower toilets which are only topped by neighboring Tiffany, requires a body search by surprisingly polite Secret Service Police.\n\nThe tower\u2019s interior utilizes a majestic red granite throughout the levels seemingly connected by high polished brass showcasing the building\u2019s iconic escalators.\n\nThe 15,000 square-foot atrium remains publicly accessible under an agreement with the City of New York in exchange for a zoning waiver granted prior to commencing the tower\u2019s construction.",
+          "time": 1582587646
+        },
+        {
+          "author_name": "Mike Peterson",
+          "author_url": "https://www.google.com/maps/contrib/115875422669730501635/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-qiwZLfRPojg/AAAAAAAAAAI/AAAAAAAAAAA/ra-0AJubbQY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Food was excellent,  service fast, friendly and personal.  Had shrimp scampi and spaghetti very tasty, reasonable price. Beautiful place nice people.",
+          "time": 1577410943
+        },
+        {
+          "author_name": "Amy Buckles",
+          "author_url": "https://www.google.com/maps/contrib/109397717330074491980/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-HEqOq6OKBAo/AAAAAAAAAAI/AAAAAAAAAAA/ggSIraEGYWM/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Beautiful building in my opinion! Wonderful central park location. Anything with Trump on it is aces to me!",
+          "time": 1582242645
+        },
+        {
+          "author_name": "Susanna Crouch",
+          "author_url": "https://www.google.com/maps/contrib/105193015608602524100/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/--sPun4ZmChQ/AAAAAAAAAAI/AAAAAAAAAAA/DcESH3l5V6U/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "Conveniently located near Central Park, safe location with entrance security that opens into a multilevel sky high waterfall on the rock paneling. Multiple areas to sit and relax with a classy bar on the second level and full restaurant and food locations on the lower level.",
+          "time": 1575774036
+        },
+        {
+          "author_name": "Snezhana Knysh",
+          "author_url": "https://www.google.com/maps/contrib/103597277711178083656/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-5F9xgioc9Ag/AAAAAAAAAAI/AAAAAAAAAAA/sRV_cmHdIhc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Great service. Stunning views of Central Park. Natura blisse body products. Loved every minute of our stay",
+          "time": 1582430149
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Zabar's": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.78475900000001,
+          "lng": -73.9796504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7860861302915,
+            "lng": -73.97820386970851
+          },
+          "southwest": {
+            "lat": 40.7833881697085,
+            "lng": -73.98090183029151
+          }
+        }
+      },
+      "name": "Zabar's",
+      "place_id": "ChIJm-V6LoZYwokRcCjwircmGxY",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "author_name": "Lachlan Tindall",
+          "author_url": "https://www.google.com/maps/contrib/116966832605286050302/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-8utz92QbWno/AAAAAAAAAAI/AAAAAAAAAAA/nV_JegJfrDY/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Cafe and grocer with a great selection. It has four sections. The first is a cafe with affordable options for meals any time of day. Tasty Bagels that must have been made in their Bakery. The second section was a Deli with a huge array of meats and cheeses. The third was a Bakery and the fourth housed the ice cream fridge.",
+          "time": 1582242278
+        },
+        {
+          "author_name": "Tsadik Kaplan",
+          "author_url": "https://www.google.com/maps/contrib/102107242273582469066/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-IiZWbGVuQlU/AAAAAAAAAAI/AAAAAAAAAAA/_bbnf3GiNKA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "People love this place, I find it useful for a few things due to the high prices of so much of what is offered. Delicious, fresh baked goods, the onion pockets are the best. Prepared foods like okra stew are teriffic.",
+          "time": 1584277994
+        },
+        {
+          "author_name": "Jon Cooper",
+          "author_url": "https://www.google.com/maps/contrib/101015811902968531539/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-njtSzM2pPMU/AAAAAAAAAAI/AAAAAAAAAAA/Vig7kFsaHXY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "10 stars,if I could.See for yourself..amazing emporium of food.Not expensive for the quality ,either.Not for Jews only,but boy,do they have a plethora of Jewish food from Eastern Europe .In addition to 50 kinds of salami.Cheese and  olive sections extraordinaire .Bread and bagel extravaganza. Prepared spread of fish, veggies - pate' s ...oh..please go .Smoked salmon nova to kill for.",
+          "time": 1579811948
+        },
+        {
+          "author_name": "Dan Cea",
+          "author_url": "https://www.google.com/maps/contrib/106360076624402085197/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-Iq9Z7K7ZxHA/AAAAAAAAAAI/AAAAAAAAAAA/3_eNXLKo3oY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "A great place to go if you want to bring home dinner. My favorite things to get here are the chicken gumbo, the carrot salad, the pierogies and blintzes. Oh, I can't forget my favorite the sweet potato knish.",
+          "time": 1581989405
+        },
+        {
+          "author_name": "Kelly Cuff",
+          "author_url": "https://www.google.com/maps/contrib/115072373697989824092/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-PlG-7cYqdEk/AAAAAAAAAAI/AAAAAAAAAAA/BZtX5DP9k90/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "This is a great historical New York grocery store. They have so many interesting food items. There deli and cheese selection stands out. I picked up a couple of their house-made begals and they were fantastic. If you want to feel like you stepped back in time, visit Zabar's.",
+          "time": 1579579899
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "The Riverside Church": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.8118401,
+          "lng": -73.9631244
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131780302915,
+            "lng": -73.9616754697085
+          },
+          "southwest": {
+            "lat": 40.8104800697085,
+            "lng": -73.96437343029152
+          }
+        }
+      },
+      "name": "The Riverside Church",
+      "place_id": "ChIJbfoLm0D2wokRciT8D0epqOM",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "author_name": "John G",
+          "author_url": "https://www.google.com/maps/contrib/117640573089652338241/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-RjXXw95CtBc/AAAAAAAAAAI/AAAAAAAAAAA/QRN1HjR52Gk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "A sea of humanity evolved for a common goal and outstanding objective.  The appetizers, speeches, hospitality were meet with honor.  So many wonderful and brilliant individuals basked the joyous occasion with their presence...I love you for embracing humility, openminded thoughts and your complete persona as you are.  God bless.  Thank you.  I felt so alive.  Each moment was reinvigorating.",
+          "time": 1579674665
+        },
+        {
+          "author_name": "Phyllis Alsterberg",
+          "author_url": "https://www.google.com/maps/contrib/106627866316364388989/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-2g3OeN8aMvI/AAAAAAAAAAI/AAAAAAAAAAA/WoKVIIB8nys/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Absolutely stunning! Amazing architecture, a sight to see. Unfortunately there were renovations being done while we were there and were unable to see everything.  The choir is quite famous and gives concerts regularly.",
+          "time": 1583489007
+        },
+        {
+          "author_name": "Lennon Turner",
+          "author_url": "https://www.google.com/maps/contrib/102675933793596057387/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-llO74rNqlxw/AAAAAAAAAAI/AAAAAAAAAAA/408uRRX4VTk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "The Riverside Church is beautiful and the team there is professional and TOP notch. I attended a MLK day celebration there and it was well put together. From the greeters, to security; everyone was welcoming.",
+          "time": 1579702407
+        },
+        {
+          "author_name": "Desiree Sanders",
+          "author_url": "https://www.google.com/maps/contrib/108035595948199329890/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-WUmEnLped_o/AAAAAAAAAAI/AAAAAAAAAAA/I8I-iWvLUW4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "I went to my hairdresser's graduation. The place is HUGE, exquisite and the singer her voice was soooo amazing very talented.",
+          "time": 1583915561
+        },
+        {
+          "author_name": "Carla Ruiz",
+          "author_url": "https://www.google.com/maps/contrib/115464191910406681960/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-5KT_ubw2944/AAAAAAAAAAI/AAAAAAAAAAA/Pg8W2Wb9878/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "I went to see an event for the Black African American History. It was beautiful! There were so many activities for kids.",
+          "time": 1581863302
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Gracie Mansion Conservancy": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7760727,
+          "lng": -73.94303920000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7777704302915,
+            "lng": -73.9420242697085
+          },
+          "southwest": {
+            "lat": 40.7750724697085,
+            "lng": -73.9447222302915
+          }
+        }
+      },
+      "name": "Gracie Mansion Conservancy",
+      "place_id": "ChIJkz90PrdYwokRqIYPXeGN2eA",
       "rating": 4.2,
       "reviews": [
         {
-          "author_name": "Jennifer Jiang",
-          "author_url": "https://www.google.com/maps/contrib/101656517187859744383/reviews",
+          "author_name": "Amelia L",
+          "author_url": "https://www.google.com/maps/contrib/106623882990849129290/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-8INkf7B-VfQ/AAAAAAAAAAI/AAAAAAAAAAA/uREeX4FYBEk/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "The garden has a free side and a paid side. The free is nice place to go to get away from the city but it can get a bit muddy during after the rain and crowded during the weekend. The paid side is more serene and tranquil with covered areas and intimate gardens. There's even a small gallery with hot tea and a few other exhibits. I always enjoy going to the garden both on the paid and free sides.",
-          "time": 1581918852
-        },
-        {
-          "author_name": "Brandon Wallace",
-          "author_url": "https://www.google.com/maps/contrib/116273694989533101954/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-MoCW47oetyA/AAAAAAAAAAI/AAAAAAAAAAA/ezHIQXemEqY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Very zen place to visit. There is a little bit of something for everyone. There is a museum aspect to this classical Chinese garden and a tranquil park as well. There is normally koi fish swimming in the ponds but unfortunately they were not there on this trip. A must check out for tourists and anyone looking for a quite spot.",
-          "time": 1584248414
-        },
-        {
-          "author_name": "Brad French",
-          "author_url": "https://www.google.com/maps/contrib/106585284194372037359/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-cK9RicQ0v2M/AAAAAAAAAAI/AAAAAAAAAAA/lVUG1pex-1A/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "A little gem in the middle of a big city. As soon as you enter the garden, the city melts away. No noise pollution. The pond is nice to look at (even better in the later spring when the lily's are growing and the koi and turtles are out. It's just a nice break from the city.",
-          "time": 1583714924
-        },
-        {
-          "author_name": "Angella Johnson",
-          "author_url": "https://www.google.com/maps/contrib/105110941108279738087/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-Xh7Gjl7350s/AAAAAAAAAAI/AAAAAAAAAAA/4C8FQ02s3Fg/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "This was one of our highlights on our trip. It's absolutely amazing and very much worth the admission fee. We could have spent the day there it's so beautiful. The tour guide was amazing. \nBe aware when you are walking there. Depending on how you get there, you essentially wak through \"skid row\" so I wouldn't recommend walking there at night or by yourself.",
-          "time": 1582696853
-        },
-        {
-          "author_name": "Andrew N. Byrne",
-          "author_url": "https://www.google.com/maps/contrib/100179457560619462919/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-KgI-o6qsJ4I/AAAAAAAAAAI/AAAAAAAAAAA/q5y3pjY0dOk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Having recently lived in China for 5 years, touring this garden brought back fond memories. While a little small, I could have easily seen myself relaxing there for an afternoon during the summertime. Still great to see on a cloudy day though.",
-          "time": 1582852314
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Christ Church Cathedral": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2844682,
-          "lng": -123.1203325
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2859420302915,
-            "lng": -123.1191818197085
-          },
-          "southwest": {
-            "lat": 49.2832440697085,
-            "lng": -123.1218797802915
-          }
-        }
-      },
-      "name": "Christ Church Cathedral",
-      "place_id": "ChIJkcrKwIFxhlQRYMkdC78WdNY",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Scott Kerrison",
-          "author_url": "https://www.google.com/maps/contrib/106928729850655310667/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-bnOnjpZJbes/AAAAAAAAAAI/AAAAAAAAAAA/sBXGZ7pIEpo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "5 months ago",
-          "text": "Although a cathedral, the architecture and design here is much less flamboyant than many other cathedrals. But it is still replete with wonderful carved timbers. The building doesn't seem particularly big from the outside, but feels much more spacious on the inside. Very quiet during my visit.",
-          "time": 1572724043
-        },
-        {
-          "author_name": "Ginny Phillips Allen",
-          "author_url": "https://www.google.com/maps/contrib/102081287960428248112/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-MtD6AVWG16Q/AAAAAAAAAAI/AAAAAAAAAAA/8t-KzcnqjmE/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "8 months ago",
-          "text": "What a beautiful worship service of celebration and inclusion. This is what heaven is like. Surrounded by multiple races and a wide spectrum of genders. As Jesus said, \"Whosoever will may come!\" Relevant application of Hosea to today's issues. Beautifully done. My heart is full, encouraged, and hope renewed!",
-          "time": 1564344139
-        },
-        {
-          "author_name": "Wally Muzlantov",
-          "author_url": "https://www.google.com/maps/contrib/102751468460878975862/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-1unAZy8jzY0/AAAAAAAAAAI/AAAAAAAAAAA/ctxVKJ-KWwM/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "If you are looking for some place for quiet reflection then you can come here and it is free entry and if you like can leave a donation before you leave.\n This is the oldest church in Vancouver and you can see it in the construction all around you. It is open during the week day especially on a Monday when we were here.",
-          "time": 1572399071
-        },
-        {
-          "author_name": "Luke Starbuck",
-          "author_url": "https://www.google.com/maps/contrib/100153808588663704115/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-fRLrgNvo4vA/AAAAAAAAAAI/AAAAAAAAAAA/tMhJb2NvRI0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "Beautiful church and the Good Noise Choir with Katherine Penfold as special guest was absolutely spectacular. Incredible performance by her and sounded so great with the choir.",
-          "time": 1578021908
-        },
-        {
-          "author_name": "Christian Eric Dallego",
-          "author_url": "https://www.google.com/maps/contrib/106088138907999148209/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-NQcU1KjnIxk/AAAAAAAAAAI/AAAAAAAAAAA/p02Lj2CgXX0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Open for visitors with welcoming and helpful church attendants.",
-          "time": 1583281571
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "H.R. MacMillan Space Centre": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.27622400000001,
-          "lng": -123.144443
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2770087302915,
-            "lng": -123.14291695
-          },
-          "southwest": {
-            "lat": 49.2743107697085,
-            "lng": -123.14577115
-          }
-        }
-      },
-      "name": "H.R. MacMillan Space Centre",
-      "place_id": "ChIJX-DfNzNyhlQR76LZl5hs5bc",
-      "rating": 3.7,
-      "reviews": [
-        {
-          "author_name": "Frank Kaminsky",
-          "author_url": "https://www.google.com/maps/contrib/112478503682276209534/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-PgvaTBYz45w/AAAAAAAAAAI/AAAAAAAAAAA/fwrF_puUZ4s/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "3 months ago",
-          "text": "Came here for the planetarium, which was interesting. A mind-blowing and fascinating experience to be able to visualize how vast the universe really is. Planetarium was great, but other than that there just isn't really a lot to do here. The observatory was opened when we came, but because it was cloudy we couldn't look through any telescopes. Paid $15 for evening admission. Staff is friendly and knowledgeable.",
-          "time": 1578260537
-        },
-        {
-          "author_name": "Shir S",
-          "author_url": "https://www.google.com/maps/contrib/110095497076360906918/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-OgjJaZcT9vE/AAAAAAAAAAI/AAAAAAAAAAA/SG8QyEKyHU8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "This is small and mostly for kids but they staff was really great and helpful. They were very engaged and helpful and the whole day is filled with either a presentation or a movie. I saw presentations about science and fire as well as a really informative movie about dark matter. They also have a moon rock you can touch and a meteorite that you can lift.",
-          "time": 1579063303
-        },
-        {
-          "author_name": "soymilk",
-          "author_url": "https://www.google.com/maps/contrib/101348524438127126953/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-XFJIVkmLbaQ/AAAAAAAAAAI/AAAAAAAAAAA/cIQ1f92oxJY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "I went here with my grade 3 class in 2016. The show was amazing and it felt like I was in space. We also made puppets and learned a lot about space. We saw how astronauts ate and drink in space and this is what lead me to become an astronaut (not yet, but future)",
-          "time": 1581967013
-        },
-        {
-          "author_name": "Matthew Riordan",
-          "author_url": "https://www.google.com/maps/contrib/108449897037540547073/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-oLGN8qOT4C4/AAAAAAAAAAI/AAAAAAAAAAA/qqnpSQ7ZHMM/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 1,
-          "relative_time_description": "2 months ago",
-          "text": "Small and expensive. Space exhibition is outdated and bland. The vancouver museum is better but too expensive. The best attraction is actually the building itself. There are some stunningly framed views of downtown vancouver. Best viewed in winter when the trees have lost their leafs. Entry should be free and would save them the cost of the 4 people sitting at the entry doing very little.",
-          "time": 1581287379
-        },
-        {
-          "author_name": "Murilo Filhol Vieira",
-          "author_url": "https://www.google.com/maps/contrib/100345498314951984628/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-kJckaOfJTYo/AAAAAAAAAAI/AAAAAAAAAAA/D17umndzTcI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "The planetarium is small, but you can see parts of a rocket, things of the space and specific expositions, like a Korean Vase exposition when I been here..\nAlso here have a cinema to watch about space or something like that.\nI loved this place.",
-          "time": 1576169155
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Victory Square": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.282238,
-          "lng": -123.1101458
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2837586302915,
-            "lng": -123.1085432197085
-          },
-          "southwest": {
-            "lat": 49.2810606697085,
-            "lng": -123.1112411802915
-          }
-        }
-      },
-      "name": "Victory Square",
-      "place_id": "ChIJgRB-c3lxhlQRxAU0p5Nk128",
-      "rating": 4,
-      "reviews": [
-        {
-          "author_name": "Ryu Kikuchi",
-          "author_url": "https://www.google.com/maps/contrib/103677345740165831564/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-4evZYfqY8Po/AAAAAAAAAAI/AAAAAAAAAAA/PTYXyYO6YNo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 2,
-          "relative_time_description": "a month ago",
-          "text": "It's in a weird location between the gentrified Gastown and the low income Hastings. It does not feel very victory at all. The only purpose seems to be a landmark but I would not want to meet up with anyone there either. There is an underground toilet there which I hear is quite guarded so it is well maintained and clean. Although I have not had the courage to go down there yet.",
-          "time": 1584490076
-        },
-        {
-          "author_name": "mama sio",
-          "author_url": "https://www.google.com/maps/contrib/115958160571149308322/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-boh6Vuawaow/AAAAAAAAAAI/AAAAAAAAAAA/aOJm9l6pDRM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "a month ago",
-          "text": "I actually enjoy sitting out in this park. It feels like a nice sunny spot in the middle of the city.\n\nGranted there are always some people of the streets in it, but that's part of the charm for me. You have students and people on lunch break and street folks all sitting around soaking up sun.\n\nNot the place I'd make a special trip to hang out in, but if you're in need of a little space and breathing room in the middle of a day in Gastown this is a good pitstop to eat some takeout in the sun and people watch.",
-          "time": 1584485804
-        },
-        {
-          "author_name": "Richard Biddle",
-          "author_url": "https://www.google.com/maps/contrib/104999858969321316570/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-i_9i58F6Mlw/AAAAAAAAAAI/AAAAAAAAAAA/an61TxE4a9E/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "kind of an iconic spot in Vancouver, that is often pointed out in many movies and tv shows. Overall nice mixture of both younger and older people, and the area itself just has a very pleasant vibe overall. I recommend visiting if you have the chance to do so.",
-          "time": 1573335272
-        },
-        {
-          "author_name": "Kindle",
-          "author_url": "https://www.google.com/maps/contrib/100675706146243109155/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-kVW2klTRH8A/AAAAAAAAAAI/AAAAAAAAAAA/Q4ef1nhARAM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "5 months ago",
-          "text": "Well, my favorite building is across from Victory Square. There is always a mix of young and old here. Folks thriving beside folks barely surviving. Beautiful cenotaph that I will always visit and find beautiful.",
-          "time": 1572649519
-        },
-        {
-          "author_name": "alexander bisson",
-          "author_url": "https://www.google.com/maps/contrib/101282411166801220665/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-l8iTwBom4j8/AAAAAAAAAAI/AAAAAAAAAAA/TTi1MSUYheQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "Everyone there is happy. Just pot heads and  booze but no one wants anger there. Everyone is easy to talk to",
-          "time": 1573694077
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Queen Elizabeth Park": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.241757,
-          "lng": -123.1126193
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.24674145000001,
-            "lng": -123.09962195
-          },
-          "southwest": {
-            "lat": 49.23406325,
-            "lng": -123.12313375
-          }
-        }
-      },
-      "name": "Queen Elizabeth Park",
-      "place_id": "ChIJIcZrTvVzhlQRiKTnD03vt7Q",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Nathan Leo",
-          "author_url": "https://www.google.com/maps/contrib/117050641911793218710/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-YeqM2V3kUEI/AAAAAAAAAAI/AAAAAAAAAAA/xXxGjj4lWng/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "Parking is ample. The planetarium, in reality, does cost money however it is really worth it. The brilliant trees, flora, and water functions were breathtaking. There has been a lovely little constructing to host a small wedding ceremony or event in. Outstanding vicinity to wander around. Very calm and tranquil. As a traveler, it won't be a completely attractive vicinity to go to however when you have greater days spending in Vancouver and are bored via common spots within the town, I would suggest to come back here and have some enjoyable time with a high-quality view.",
-          "time": 1581776819
-        },
-        {
-          "author_name": "Daniel Lawson",
-          "author_url": "https://www.google.com/maps/contrib/107787432057231614570/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-WG2OMukE4_4/AAAAAAAAAAI/AAAAAAAAAAA/5a2XstZKjZg/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "The park becomes brilliant. The garden becomes very beautiful and it became calm surroundings. Parking becomes smooth to locate, but it is pay parking. First-rate views and top of the road dining. This area as a minimum is charming. I preserve coming lower back to it with my spouse and we love it. One of the fine places in Vancouver to head and revel in the best perspectives. Everything approximately this park is superb. The trees, the trees are stunning and thoroughly chopped and maintained.",
-          "time": 1582435879
-        },
-        {
-          "author_name": "Gordy Wong",
-          "author_url": "https://www.google.com/maps/contrib/100505341968014309237/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-tt6au-DlUBI/AAAAAAAAAAI/AAAAAAAAAAA/-H9F7JNTJAY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "Located at 4600 Cambie Street in Vancouver BC  near 33 Avenue and Cambie Street. One of the jewels of the Vancouver Parks Board.\nThis is a large treed park with a very nice restaurant located inside the park called Seasons in the Park. The food there is great and the staff there are very attentive.\nIf you are seated facing north there is a spectacular view of the skyline of downtown Vancouver and the north Shore Mountains.\nThe park is very well maintained and during the spring and summer months many wedding pictures and videos are shot there. \nA great place to visit regardless if you are a native or tourist.",
-          "time": 1581832352
-        },
-        {
-          "author_name": "Aaron Aaron",
-          "author_url": "https://www.google.com/maps/contrib/107448332873410545079/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-DxNvaurvnT8/AAAAAAAAAAI/AAAAAAAAAAA/aylt2t1rY24/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "Awesome park. They have lots of free parking and disabled parking too. They have a restaurant At the top of the park, a plant/bird conservatory (really cool), pitch and putt, basketball, tennis, rose garden and more. It\u2019s one of my favourite parks. It\u2019s super beautiful here almost all year long. It\u2019s also a great place to walk your dog (on leash).",
-          "time": 1576113643
-        },
-        {
-          "author_name": "Tommy 146",
-          "author_url": "https://www.google.com/maps/contrib/102003474883086277781/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-Ln5Oycpd3Dk/AAAAAAAAAAI/AAAAAAAAAAA/cwWfHZPeW00/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "5 months ago",
-          "text": "The park was wonderful. The Garden was very beautiful and it was a calm environment. Parking was easy to find, but it is pay parking. The fountain was great. It was nice to just sit back and watch the scenery around you. The view of the city is amazing from the park. You can see Grouse mountain as well as Mount Seymour. Downtown was visible to the left and Burnaby to the right. The park had many benches and public washrooms. Its a great place to go for a walk or a picnic on a sunny day.",
-          "time": 1573981000
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "St. Andrew's Wesley United Church": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2812948,
-          "lng": -123.1267862
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2827455802915,
-            "lng": -123.1252877197085
-          },
-          "southwest": {
-            "lat": 49.2800476197085,
-            "lng": -123.1279856802915
-          }
-        }
-      },
-      "name": "St. Andrew's Wesley United Church",
-      "place_id": "ChIJ7ZhaMdVzhlQR8xSrslGb888",
-      "rating": 4.1,
-      "reviews": [
-        {
-          "author_name": "Blake Theriot",
-          "author_url": "https://www.google.com/maps/contrib/107605422563366529287/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-a6XPTnZD0LY/AAAAAAAAAAI/AAAAAAAAAAA/CbBcWlQIaYE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "I find the service is boring as hell but the building itself is beautiful. Definitely a place a couple would consider as an ideal church-wedding venue to tie the knot! People are kind and courteous too and very open to all walks of life.",
-          "time": 1581849449
-        },
-        {
-          "author_name": "Isaac Vejvoda",
-          "author_url": "https://www.google.com/maps/contrib/104067124103272089714/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-Feo2l93OOZo/AAAAAAAAAAI/AAAAAAAAAAA/YCfPJj26wmE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 2,
-          "relative_time_description": "a year ago",
-          "text": "Fairly friendly, but very old-fashioned and backwards. There was no sermon, only a man talking about his thoughts in regards to Jesus's parable on faith like a mustard seed. He outright said that Jesus was \"wrong about that\" more than once. The music was very old hymns, albeit played on an beautiful pipe organ. All in all, not a very good church in my opinion.",
-          "time": 1529267118
-        },
-        {
-          "author_name": "Mimi Savio",
-          "author_url": "https://www.google.com/maps/contrib/105124999095494969558/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-UpqMauE9SyQ/AAAAAAAAAAI/AAAAAAAAAAA/YI2rDRGvbmY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 2,
-          "relative_time_description": "a month ago",
-          "text": "I tried phoning and emailing this church while visiting the Vancouver area right after Christmas. My husband and I were hoping to join in worship there. I\u2019ve yet to get a response.",
-          "time": 1582685297
-        },
-        {
-          "author_name": "Ted Downey",
-          "author_url": "https://www.google.com/maps/contrib/111142213042656599389/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-IoIxzpSD8So/AAAAAAAAAAI/AAAAAAAAAAA/uuGGTf0bo7E/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "6 months ago",
-          "text": "The most lovely of old Churches in the lower Mainland.  All the Ministers there deliver a message of spirituality, self love and peace within. If I lived in Vancouver, I would attend regularly. It's also a terrific venue for us musicians as our jazz is very much appreciated at their Sunday Vespers, as I am privileged to play with a number of groups who perform at this service.",
-          "time": 1571672141
-        },
-        {
-          "author_name": "Doug Walker",
-          "author_url": "https://www.google.com/maps/contrib/106501553471664493003/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-2lMI95WsSXU/AAAAAAAAAAI/AAAAAAAAAAA/dSGB1Hf1DJQ/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-zZAs2dnn6dQ/AAAAAAAAAAI/AAAAAAAAAAA/H4tWWFcNzsk/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
           "rating": 5,
           "relative_time_description": "a year ago",
-          "text": "Wow the VSO did a wonderful performance. Worth it for everyone. What a beautiful Church.",
-          "time": 1546656584
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Westside Church": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2802,
-          "lng": -123.1163
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2814678302915,
-            "lng": -123.1148252197085
-          },
-          "southwest": {
-            "lat": 49.2787698697085,
-            "lng": -123.1175231802915
-          }
-        }
-      },
-      "name": "Westside Church",
-      "place_id": "ChIJXYjXabdzhlQRZWLc7u7n7eg",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Terry Hansen",
-          "author_url": "https://www.google.com/maps/contrib/114346126773372250930/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-E2dPF6Vjm-w/AAAAAAAAAAI/AAAAAAAAAAA/grwcKnsB6ho/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "a month ago",
-          "text": "The teaching I heard was good.  People there are approachable and nice.  A negative, I'll keep to myself for now. \u263a",
-          "time": 1582520413
+          "text": "Was lucky enough to get to go to the Gracie Mansion Holiday Open House today.  The holiday decorations were on point!  The house is just gorgeous and has so much history. I love that the public is able to see this place up close and personal. After touring the house we were lead outside to a tent overlooking the river where we got to munch on gingerbread cookies and yummy Apple cider.",
+          "time": 1544326231
         },
         {
-          "author_name": "Vince McLaren",
-          "author_url": "https://www.google.com/maps/contrib/103540913457815716367/reviews",
+          "author_name": "Mary Ann Callahan",
+          "author_url": "https://www.google.com/maps/contrib/104484330716763164465/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-VWbM-PfNrRA/AAAAAAAAAAI/AAAAAAAAAAA/lMafuLl2tn8/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Great venue. Fun event.",
-          "time": 1583787853
-        },
-        {
-          "author_name": "Gabriel Yeung",
-          "author_url": "https://www.google.com/maps/contrib/108029878306585586730/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-yKC5r8u6mIg/AAAAAAAAAAI/AAAAAAAAAAA/vbWKG0fXBtw/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "An extremely welcoming church with typically two services, one at 9am and another at 11am. Friendly greeters welcome you into the space. The music is moving and the speakers are thoughtful.",
-          "time": 1579482315
-        },
-        {
-          "author_name": "Farhan Ahmed Anam",
-          "author_url": "https://www.google.com/maps/contrib/103272635611710843322/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-1vITPgiXyiU/AAAAAAAAAAI/AAAAAAAAAAA/B0I1Ko9hddo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "11 months ago",
-          "text": "Nice place, we had our convocation there.",
-          "time": 1557446296
-        },
-        {
-          "author_name": "Anthony Pua",
-          "author_url": "https://www.google.com/maps/contrib/113834764490898389538/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-zM9iVPtv_cQ/AAAAAAAAAAI/AAAAAAAAAAA/ZVGylJjsKbU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "Reformed theology with Christ-centered gospel preaching. Complimentarian with a Mennonite Brethren statement of faith. A great godly community with alot of support in different ministry areas (kids ministry, justice and Mercy, weekly community group gatherings etc.). \n\nCome prepared to know Jesus Christ and to make Him known!",
-          "time": 1577066976
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "English Bay Beach": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2863114,
-          "lng": -123.1434865
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.28762418029149,
-            "lng": -123.1416697697085
-          },
-          "southwest": {
-            "lat": 49.2849262197085,
-            "lng": -123.1443677302915
-          }
-        }
-      },
-      "name": "English Bay Beach",
-      "place_id": "ChIJ86zkaC9yhlQR4GhBA8iTiy4",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "author_name": "Irene K",
-          "author_url": "https://www.google.com/maps/contrib/101638142183801069998/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-qjbYEK6lEs0/AAAAAAAAAAI/AAAAAAAAAAA/usdfsiIjbdY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "My most favourite spot in the city. Daffodils are starting to bloom now and it\u2019s just so beautiful out. It\u2019s a favourite spot for locals to stroll along and bike. The seawall is connected to Stanley Park.  Even on a crisp winter day, you\u2019ll see people walking along with coffees in hand. Just up the block are myriad of eateries and ice cream shops. Grab a lunch to go and bring it down to the beach. \nThere is also a wheelchair accessible walkway which they installed on the beach so you can get up close to the shoreline. \n\nThe sunset is the most beautiful from this beach. And in the summer there are live performances and musicians. It\u2019s just breathtaking.",
-          "time": 1581308288
-        },
-        {
-          "author_name": "Curtis Yu",
-          "author_url": "https://www.google.com/maps/contrib/110363162027905151263/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-_igtsm68dD4/AAAAAAAAAAI/AAAAAAAAAAA/RLLLTWiMPVA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "Fun place for a day visit. Some pretty lights good for a nice stroll at night. In the summer, countless great memories at the Celebration of Lights! Get there by 8pm to easily find space for a bigger group (8+ people). Despite fighting through the crowd, 9pm works as well if you\u2019re just a few people.",
-          "time": 1577837923
-        },
-        {
-          "author_name": "Richie Felipe",
-          "author_url": "https://www.google.com/maps/contrib/106699266378187167328/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-m8X1X1JXLRs/AAAAAAAAAAI/AAAAAAAAAAA/ycnDK0lmi5I/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "The beach was clean and the fresh breeze makes me feel comfortable and wants to go back again. It\u2019s good for picnic and spending time with love ones. The beach was busy and well known for dating place.",
-          "time": 1582225187
-        },
-        {
-          "author_name": "Bear Flett",
-          "author_url": "https://www.google.com/maps/contrib/114939886776589426861/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-sRVSg1WkQb0/AAAAAAAAAAI/AAAAAAAAAAA/WGVHaQgU49Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "There is no place else like this on earth. A true mix of everything urban and natural. Gateway to Stanley park which is the size of Manhattan. There are so many choices for dining or picnics on the beach. It gets crowded in the warm weather. Walk don't drive. Great for a quick bike or to just chill and read a book. Overcast rainy days are absolutely beautiful as well. Tennis. Volley ball, pitch and putt lawn bowling. It has lots to offer. And Stanley park brewing is a hop, skip and a jump too.",
-          "time": 1582669320
-        },
-        {
-          "author_name": "Josh",
-          "author_url": "https://www.google.com/maps/contrib/118358503594557475749/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-7oHDmvVrrf4/AAAAAAAAAAI/AAAAAAAAAAA/t7Idb_yv4WQ/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "2 months ago",
-          "text": "Nice views. Easy access. It's not My favorite beach in Vancouver,  but definitely a great place to get some sun, relax and read a book, or catch up with friends after work.\nSummertime and sunsets :)",
-          "time": 1579845541
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "First Baptist Church": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2816222,
-          "lng": -123.1261919
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2828308302915,
-            "lng": -123.1246250197085
-          },
-          "southwest": {
-            "lat": 49.28013286970851,
-            "lng": -123.1273229802915
-          }
-        }
-      },
-      "name": "First Baptist Church",
-      "place_id": "ChIJeQ4INtVzhlQRjVlJ37cbIBs",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Rodrigo Bastias - com",
-          "author_url": "https://www.google.com/maps/contrib/106253463810087259647/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-IR9hl9lxov8/AAAAAAAAAAI/AAAAAAAAAAA/f20KGVz4pc4/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 1,
-          "relative_time_description": "3 years ago",
-          "text": "Beautiful Church I can spend hours walking inside.",
-          "time": 1485393812
-        },
-        {
-          "author_name": "Terry WhiteCrow Cookson",
-          "author_url": "https://www.google.com/maps/contrib/116898715628710178223/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-kcOuVqVtCk0/AAAAAAAAAAI/AAAAAAAAAAA/ysxsS6wKjzs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "Great experience in helping our local people in their over night/emerg. Cold sleeping. Hot meal anda bit of respect from everyone there. And I'm looking forward in help again out thus yr..",
-          "time": 1572453243
-        },
-        {
-          "author_name": "Johnny Zakharia",
-          "author_url": "https://www.google.com/maps/contrib/113510501320045242083/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-OiRRY4GtDL4/AAAAAAAAAAI/AAAAAAAAAAA/9yN8m8ftzQ4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "One of the best churches in Vancouver because they help the homeless and even give them a place to sleep once a week",
-          "time": 1574632703
-        },
-        {
-          "author_name": "Jini Singh-Henderson",
-          "author_url": "https://www.google.com/maps/contrib/106722651737577160290/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-ZYmCA7rJ6FQ/AAAAAAAAAAI/AAAAAAAAAAA/Wy4xQe9iC4c/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "2 months ago",
-          "text": "Easy going Baptist church, welcoming all members of the community & visitors.",
-          "time": 1580345734
-        },
-        {
-          "author_name": "Cheryl Goss",
-          "author_url": "https://www.google.com/maps/contrib/114058956813774081576/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-DGK1Sew606w/AAAAAAAAAAI/AAAAAAAAAAA/3oasBTQtLhQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "12 months ago",
-          "text": "Friendly and Great staff",
-          "time": 1556028865
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "The Orpheum": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2800806,
-          "lng": -123.1204164
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2813147802915,
-            "lng": -123.1192088697085
-          },
-          "southwest": {
-            "lat": 49.2786168197085,
-            "lng": -123.1219068302915
-          }
-        }
-      },
-      "name": "The Orpheum",
-      "place_id": "ChIJXYebzX9xhlQRnChzu0W7GW8",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "author_name": "Andrew Reid",
-          "author_url": "https://www.google.com/maps/contrib/112569791042508984581/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-UbMKvZnzsEg/AAAAAAAAAAI/AAAAAAAAAAA/yvAoLBjU3CI/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "3 months ago",
-          "text": "It was amazing to see my first love show here.\nWe sat up in the top area, third row and had a great show of the Wiggles.  At two years old my daughter had an amazing time. Sitting on my lap, we danced and sung along. Id recommend The Orpheum to anyone on Vancouver Island, such an experience.\n\nThank-you",
-          "time": 1578010423
-        },
-        {
-          "author_name": "Gurv",
-          "author_url": "https://www.google.com/maps/contrib/115037908330074251508/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-Z1RGoexlYnc/AAAAAAAAAAI/AAAAAAAAAAA/hbA2GC2tZ_4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "The Orpheum is just a beautiful venue. The theatre is like something out of a movie, with the plush red carpet, brass bannisters, and ornate decorations, it\u2019s just beautifully designed. There is also a lot of really cool history on display, including pictures of artists inducted into the B.C. Entertainment Hall of Fame. They also have plenty of concessions available though you meed to know to head upstairs as there is typically a longer lineup downstairs.",
-          "time": 1583296753
-        },
-        {
-          "author_name": "Subrata Chakrabarti",
-          "author_url": "https://www.google.com/maps/contrib/104279926668945731947/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-B9xILfaxCeQ/AAAAAAAAAAI/AAAAAAAAAAA/cIanqMnkoCo/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "An iconic building in Vancouver, the  home of the Vancouver Symphony Orchestra. Came here after a long break to listen to Beethoven's 9th. The orchestra was the Vancouver Academy of Music and the singers were from the Vancouver Bach Choir.\n\nThe tickets were only $10 for open seating but we were given 2 tickets by our friends. So, it was even better.\n\nWe appreciated that young musician are learning and playing beautiful music.  It was a treat.\n\nSoon there will be another program by the same orchestra. They will play the New World Symphony by Dvorak.",
-          "time": 1583462821
-        },
-        {
-          "author_name": "Cameron Ortega",
-          "author_url": "https://www.google.com/maps/contrib/112187951827234128892/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-2Yb2C5d12Ak/AAAAAAAAAAI/AAAAAAAAAAA/-nX0JbhTdCA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "Theatre is a wonderful venue for comedy. We loved the snack and drink options available. Very roomy open lobby for hanging out prior to your show or event.",
-          "time": 1583267852
-        },
-        {
-          "author_name": "Julie Shuker",
-          "author_url": "https://www.google.com/maps/contrib/109081004917270186604/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-Xr4nKMnSN7c/AAAAAAAAAAI/AAAAAAAAAAA/rqe1b7VdnoQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 3,
-          "relative_time_description": "a month ago",
-          "text": "If you pay for meet and greet (most expensive tickets) have the meet and greet set up prior and preferably not up 10 flights of stairs.  Show was great but lack of planning for meet and great did not reflect well on the total experience.  Especially when we discovered on the way out there was an elevator. I am not a spring chicken and I have a bad drumstick!!",
-          "time": 1584206328
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Sunset Beach Park": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2799528,
-          "lng": -123.1387417
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.28879105000001,
-            "lng": -123.12997585
-          },
-          "southwest": {
-            "lat": 49.27158964999999,
-            "lng": -123.14775125
-          }
-        }
-      },
-      "name": "Sunset Beach Park",
-      "place_id": "ChIJAWo0tC1yhlQRAL6Iz7Cs6G4",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Taka Gomez",
-          "author_url": "https://www.google.com/maps/contrib/110047594433582722052/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-ZHfl72pQtJA/AAAAAAAAAAI/AAAAAAAAAAA/sOBaim-ujeI/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "a month ago",
-          "text": "You could probably guess where they get the name from. A beautiful place to watch the sunset in the spring and summer times.\n\nIt's a fairly clean beach and even has a bathroom and concession stand. The sand can be a bit uncomfortable to sunbathe on, so I would recommend bringing multiple towels/blankets.",
-          "time": 1584411722
-        },
-        {
-          "author_name": "Brian Kates",
-          "author_url": "https://www.google.com/maps/contrib/106411864061190989319/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-Rm6O7pkE4OM/AAAAAAAAAAI/AAAAAAAAAAA/aBJb8xUbbC4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "I love coming here with my kids. Its always Clean and free from Debris.  Sea shells are always on the beach and it is a great place to watch the Sunset. It is also great in the Summer for swimming in the Ocean.",
-          "time": 1582973260
-        },
-        {
-          "author_name": "Mr J",
-          "author_url": "https://www.google.com/maps/contrib/114046940983469700685/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-HtGkiqqsBTQ/AAAAAAAAAAI/AAAAAAAAAAA/nrIvOA2SIJQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "The name says it all...\nThey do not get any more splendid..\nand if you are a people watcher ....the path is great to walk or sit ..\nbike ..run.... blade....\u270c\ufe0f\ud83d\udc7d\nI love how many people use this daily.. 365 rain or shine...\nI'm sold...",
-          "time": 1574362926
-        },
-        {
-          "author_name": "Lina Salinas",
-          "author_url": "https://www.google.com/maps/contrib/109017740312221416776/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-ol9fzkbV--A/AAAAAAAAAAI/AAAAAAAAAAA/vMJVaNImLD4/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a month ago",
-          "text": "It is a great place to walk, bike, play tennis, walk your dog, and play other activities. \nIt is a crowded place during warmer months, but the view is amazing, the sunsets are spectacular. You can watch fireworks from this beach as well. Lots of places to eat along the beach.",
-          "time": 1583465674
-        },
-        {
-          "author_name": "GU S",
-          "author_url": "https://www.google.com/maps/contrib/106618044757967467477/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-Ai_sZaLVLeI/AAAAAAAAAAI/AAAAAAAAAAA/uS4-BqODhfc/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "I highly highly recommend this place.\nIt was amazing as you see on pictures.\nI can't take my eyes off this beautiful sunset and nature.\nI could see the most beautiful sunset in here and it would remain in my mind forever \ud83d\ude2d\ud83c\udde8\ud83c\udde6",
-          "time": 1575150357
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Western Front Society": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.26379050000001,
-          "lng": -123.0987608
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2650794802915,
-            "lng": -123.0974130197085
-          },
-          "southwest": {
-            "lat": 49.26238151970851,
-            "lng": -123.1001109802915
-          }
-        }
-      },
-      "name": "Western Front Society",
-      "place_id": "ChIJMUTHbl9xhlQRrpkumTy2QaU",
-      "rating": 4.6,
-      "reviews": [
-        {
-          "author_name": "Kirk Chantraine",
-          "author_url": "https://www.google.com/maps/contrib/112808182966369626537/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-WqBAGVQ5Vy0/AAAAAAAAAAI/AAAAAAAAAAA/dYwd6nV4_4o/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "5 months ago",
-          "text": "Cool local gallery and performance space.",
-          "time": 1572415862
-        },
-        {
-          "author_name": "Ariel Mansell",
-          "author_url": "https://www.google.com/maps/contrib/113636060335091757823/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-oZ9cjKNRfM0/AAAAAAAAAAI/AAAAAAAAAAA/2Fi-ZTg8FG8/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a year ago",
-          "text": "Amazing space and environment for music. Fantastic events hosted here! Vintage, cozy and intimate.",
-          "time": 1549593698
-        },
-        {
-          "author_name": "Josephine Watson",
-          "author_url": "https://www.google.com/maps/contrib/105329122149811162568/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-uI8bSfFCpJg/AAAAAAAAAAI/AAAAAAAAAAA/sLuI7sV0kJo/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "a year ago",
-          "text": "Great place for art, dance, music or artistic expression in general",
-          "time": 1542557683
-        },
-        {
-          "author_name": "Rachel Lewis",
-          "author_url": "https://www.google.com/maps/contrib/100121550977336154474/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-xjAUqUKExoc/AAAAAAAAAAI/AAAAAAAAAAA/u_KBkM6mCYw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "profile_photo_url": "https://lh5.ggpht.com/-NVxsHYVNqI4/AAAAAAAAAAI/AAAAAAAAAAA/czII0PX6GKs/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
           "relative_time_description": "10 months ago",
-          "text": "Jane Ellison's classes are a national treasure.",
-          "time": 1561228103
+          "text": "On May 15,  Visitation Circle, a women's group from St. Vincent Ferrer parish on UES visited the \"She Persists\" show and want to express our appreciation to Susan, our guide, who really shared her expertise, remarkable insights and enthusiasm.",
+          "time": 1559424360
         },
         {
-          "author_name": "David Yule",
-          "author_url": "https://www.google.com/maps/contrib/104026376072401172960/reviews",
+          "author_name": "Sophia Fabiola",
+          "author_url": "https://www.google.com/maps/contrib/106376389973258394857/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh6.ggpht.com/-Nf-VjNBGxJM/AAAAAAAAAAI/AAAAAAAAAAA/pSjS-GTRvh4/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "profile_photo_url": "https://lh4.ggpht.com/-WbUoXIwW3Xg/AAAAAAAAAAI/AAAAAAAAAAA/BvR_zavpZno/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
           "rating": 4,
-          "relative_time_description": "3 years ago",
-          "text": "Showcases local talent",
-          "time": 1491254654
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Vancouver Water Adventures LTD.": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.2717203,
-          "lng": -123.1365803
+          "relative_time_description": "2 years ago",
+          "text": "Got an invite for this years \u201cInternational Women\u2019s Day Celebration\u201d. Based from a New Yorker local that I spoke to they consider this as the \u201cNew York White House of the City\u201d. The place is nice, well kept to its original look and feeling. You\u2019ll have a blast of the past experience once you\u2019re inside. Recommended!",
+          "time": 1523763671
         },
-        "viewport": {
-          "northeast": {
-            "lat": 49.27306538029151,
-            "lng": -123.1352311697085
-          },
-          "southwest": {
-            "lat": 49.27036741970851,
-            "lng": -123.1379291302915
-          }
-        }
-      },
-      "name": "Vancouver Water Adventures LTD.",
-      "place_id": "ChIJs6v-hc5zhlQRX4TScufpbeM",
-      "rating": 4.7,
-      "reviews": [
         {
-          "author_name": "Divya Bhatt",
-          "author_url": "https://www.google.com/maps/contrib/105252919006903801689/reviews",
+          "author_name": "yolanda morales",
+          "author_url": "https://www.google.com/maps/contrib/104506868601890723169/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-6N38vF-ZpBA/AAAAAAAAAAI/AAAAAAAAAAA/mdL0vhZ6XGM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "profile_photo_url": "https://lh3.ggpht.com/-m_80IwBPo-E/AAAAAAAAAAI/AAAAAAAAAAA/02r7Oh6YPO0/s128-c0x00000000-cc-rp-mo/photo.jpg",
           "rating": 5,
-          "relative_time_description": "8 months ago",
-          "text": "The best experience I have ever had in water sport. Kevin, their guide was awesome! We went to seadoo: ocean is yours tour. He explained a lot of stuff that I didn't knew. Went all the way to Bowen Island and Howe sound. Had a great swim in the middle of the ocean. I strongly recommend these guys if you're in Vancouver and interested in water sports. You'll see beautiful views from ocean which you can't see if you're on land or air. Kudos!",
-          "time": 1563912357
-        },
-        {
-          "author_name": "Kirk Bratvold",
-          "author_url": "https://www.google.com/maps/contrib/111171980219447485816/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-JeUiVMG50Tw/AAAAAAAAAAI/AAAAAAAAAAA/goaRp6ovPSs/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "8 months ago",
-          "text": "Did the Granite Falls zodiac tour with Yuri and had a great time.  Learned a lot about my own city and got to see the beautiful unspoiled nature that lies just minutes outside Vancouver.",
-          "time": 1565211042
-        },
-        {
-          "author_name": "Francesco Cammardella",
-          "author_url": "https://www.google.com/maps/contrib/115105596049733350036/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-cDCtGZ7tvkc/AAAAAAAAAAI/AAAAAAAAAAA/dUqEiSCRPCI/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "8 months ago",
-          "text": "Professional services and amazing experience. Interesting offer on every Monday, if you follow them on social media you pay just $10/h",
-          "time": 1564251098
-        },
-        {
-          "author_name": "Mark Crystal",
-          "author_url": "https://www.google.com/maps/contrib/116659632327964402792/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/--vubttW21Y4/AAAAAAAAAAI/AAAAAAAAAAA/7wjFPVgT_2s/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "7 months ago",
-          "text": "Alex was our tour guide and we had a great tour. Alex was very kind and helpful. Showed us around a lot of beautiful sites. Will be back and will introduce our friends to come here",
-          "time": 1566598899
-        },
-        {
-          "author_name": "Ryan Samuels",
-          "author_url": "https://www.google.com/maps/contrib/106753659039342399284/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-sKDe6_hfUXE/AAAAAAAAAAI/AAAAAAAAAAA/UGPLJTkRKCU/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "10 months ago",
-          "text": "Had an amazing time with Clay and Paul, on this morning's (~3 hour) double seedo/jetski tour!\n\nWas a great experience, guides were very friendly, saw some really cool things! Had a great opportunity to have fun! Would recommend!",
-          "time": 1561182029
-        }
-      ]
-    },
-    "status": "OK"
-  },
-  "Contemporary Art Gallery": {
-    "html_attributions": [],
-    "result": {
-      "geometry": {
-        "location": {
-          "lat": 49.27826270000001,
-          "lng": -123.1211278
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 49.2795559302915,
-            "lng": -123.1198594697085
-          },
-          "southwest": {
-            "lat": 49.2768579697085,
-            "lng": -123.1225574302915
-          }
-        }
-      },
-      "name": "Contemporary Art Gallery",
-      "place_id": "ChIJpWYR79VzhlQRYo-cR-_0ktg",
-      "rating": 3.9,
-      "reviews": [
-        {
-          "author_name": "Janice Chau",
-          "author_url": "https://www.google.com/maps/contrib/112743124843602595396/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-JlJzhjF0INI/AAAAAAAAAAI/AAAAAAAAAAA/uufNiBeWhRw/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 4,
-          "relative_time_description": "4 months ago",
-          "text": "It was much smaller than I expected, but admission is free/by donation. I enjoyed going through the exhibits. It's a quick cultural stop among shopping/eats nearby on Granville - It would probably take 20 min to go through everything.",
-          "time": 1575919784
-        },
-        {
-          "author_name": "Melike",
-          "author_url": "https://www.google.com/maps/contrib/106772346120630767666/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-0HEHlfCIUEE/AAAAAAAAAAI/AAAAAAAAAAA/zWjgxVeMlEo/s128-c0x00000000-cc-rp-mo/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "4 months ago",
-          "text": "Good spot for art work that doesn\u2019t sacrifice meaning for the sake of creativity. Plus some lovely people who are willing to have a nice conversation.",
-          "time": 1576135543
-        },
-        {
-          "author_name": "John van Bockxmeer",
-          "author_url": "https://www.google.com/maps/contrib/109571522102167541627/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh5.ggpht.com/-hEEsUBjcI_U/AAAAAAAAAAI/AAAAAAAAAAA/piamvv-L-yw/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
-          "rating": 4,
           "relative_time_description": "a year ago",
-          "text": "Small and intimate gallery containing two rooms of contemporary art hosted by knowledgeable curators. The cag is the oldest gallery of its type in Vancouver and is worth a look, won't take much more than 30-50 minutes. They offer free lunchtime tours which are a great way to be introduced to the space. There's also a small bookshop and reference area. Free entry.\n#cag #gallery #modernart",
-          "time": 1544129800
+          "text": "Thank you for the holiday tour \ud83c\udf84\ud83c\udf84",
+          "time": 1544617575
         },
         {
-          "author_name": "J MC",
-          "author_url": "https://www.google.com/maps/contrib/111623868639711851027/reviews",
+          "author_name": "Ryan Eakin",
+          "author_url": "https://www.google.com/maps/contrib/106390412657297204935/reviews",
           "language": "en",
-          "profile_photo_url": "https://lh4.ggpht.com/-YICSF4qsrOw/AAAAAAAAAAI/AAAAAAAAAAA/j5VBxoR1cBg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
-          "rating": 5,
-          "relative_time_description": "5 months ago",
-          "text": "I'd love for the gallery to close a little bit later, but when it's full of expositions it's a really good place to spend some time.",
-          "time": 1573580031
-        },
-        {
-          "author_name": "Thomas Wolf",
-          "author_url": "https://www.google.com/maps/contrib/112627936177342973241/reviews",
-          "language": "en",
-          "profile_photo_url": "https://lh3.ggpht.com/-4S7mHd95y14/AAAAAAAAAAI/AAAAAAAAAAA/m1JYdzOyY6g/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
-          "rating": 4,
+          "profile_photo_url": "https://lh6.ggpht.com/-gYxPaydIwt4/AAAAAAAAAAI/AAAAAAAAAAA/nD0UeXYuocY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 2,
           "relative_time_description": "8 months ago",
-          "text": "Not for everyone. \nContemporary art is always controversial. \nI was not impressed but you might love it. \n\nVenue is small but don\u2019t need to have several galleries. \nSince there is no admission charge I didn\u2019t feel I was cheated. \n\nGreat clean space. \nOther than that it\u2019s an art gallery.",
-          "time": 1566274124
+          "text": "It's okay. If you're expecting a tour about the history, significance of the furniture pieces, carpets, or architecture you'll be disappointed. Almost nothing is mentioned about the building itself and the tour focused on just the artwork on the walls. There should be separate tours, one for the art installations and one for the actual mansion and it's historical significance.",
+          "time": 1564412281
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Riverbank State Park": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.82642360000001,
+          "lng": -73.9559555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8277725802915,
+            "lng": -73.9546065197085
+          },
+          "southwest": {
+            "lat": 40.8250746197085,
+            "lng": -73.95730448029151
+          }
+        }
+      },
+      "name": "Riverbank State Park",
+      "place_id": "ChIJP_a7lmH2wokRMSi6hHf1eXA",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "author_name": "Burt Crane",
+          "author_url": "https://www.google.com/maps/contrib/117542859632701605979/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-Rjp2L_YUuUY/AAAAAAAAAAI/AAAAAAAAAAA/rXtTYuBrDfY/s128-c0x00000000-cc-rp-mo/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Riverbank State Park has two pools.  An indoor 50 meter pool and an outdoor 25 yard pool.  \n\nThe indoor pool is configured for long course from 6:30 to 8:15 am.  Afterward the bulkhead is placed at 25 yards. \n\nThe water is clean.  The water temperature is on the warm side: 80 to 81 degrees.  \n\nThis is a good pool for lap swimming.  \n\nLocker rooms are what you would expect to find in a public pool. \n\nOne buys a pass from the ticket counter near the ice skating rink.   Depending on age, it costs $1 or $2 a swim.  \n\nThere is street parking.  There is no parking at the complex.",
+          "time": 1584316359
+        },
+        {
+          "author_name": "Isabella Valderrama",
+          "author_url": "https://www.google.com/maps/contrib/108790256525177763546/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-VvAKt8yitEA/AAAAAAAAAAI/AAAAAAAAAAA/qoQKHWmirkw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Love Riverbank!  I take my kids swimming here every week and it's not only extremely affordable, it's also way to get to via MTA.  I first heard about Riverbank because they partnered with my kids school to offer swimming classes so I liked that they are involved in the community.  They also have ice skating and they have events every now and then that are family friendly.",
+          "time": 1583757676
+        },
+        {
+          "author_name": "Amu Ptah",
+          "author_url": "https://www.google.com/maps/contrib/107910096306017910310/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-NNGXjGtcc7w/AAAAAAAAAAI/AAAAAAAAAAA/q6fDKd7ePGY/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Access to lap pool is great. There's also a nice rink and programming available. Locker room is sufficient with very hot water. Friendly staff. Park Police on site. Solid running paths.",
+          "time": 1583751821
+        },
+        {
+          "author_name": "Amanda Mckeiver",
+          "author_url": "https://www.google.com/maps/contrib/102972742596853933740/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh3.ggpht.com/-vYEHKh0wZGU/AAAAAAAAAAI/AAAAAAAAAAA/Wt7_PvZ7WLk/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "A great experience, affordable prices, cool staff and good food. The skating rink had both a beginner's side and an advanced side. The food selection ranges from snacks to grilled foods (burgers, fries, chicken sandwiches, chicken tenders) at affordable prices. Fun for children and adults of all ages.",
+          "time": 1578196894
+        },
+        {
+          "author_name": "Hayward Hyman",
+          "author_url": "https://www.google.com/maps/contrib/106054142929852655711/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-rYMJ6L5MTjE/AAAAAAAAAAI/AAAAAAAAAAA/l2_3uUzrLi4/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Riverbank is a hidden Gem amongst the hood! It is clean, maintained, and monitored by their own State Police. I've worked there a long time ago, and love coming back to visit.",
+          "time": 1583628429
+        }
+      ]
+    },
+    "status": "OK"
+  },
+  "Belvedere Castle": {
+    "html_attributions": [],
+    "result": {
+      "geometry": {
+        "location": {
+          "lat": 40.7794302,
+          "lng": -73.9690677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7841823,
+            "lng": -73.96023030000002
+          },
+          "southwest": {
+            "lat": 40.77484949999999,
+            "lng": -73.97524750000001
+          }
+        }
+      },
+      "name": "Belvedere Castle",
+      "place_id": "ChIJFXzf4e9YwokRtXgpty_i74g",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "author_name": "Kelvin Ofula",
+          "author_url": "https://www.google.com/maps/contrib/106187296413365901031/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-5Qf_8zg-xlU/AAAAAAAAAAI/AAAAAAAAAAA/eElS_EtTtyI/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+          "rating": 4,
+          "relative_time_description": "a month ago",
+          "text": "Situated deep inside Central Park, it's a nice spot to stop by and relax. Good history background and its absolutely free to visit. There's a gift shop where you can buy yourself souvenirs. I recommend going to the top where you get a view of the central park. The top is not wheelchair accessible and the stairway is really narrow, only one person a time so when it's fully packed it gets excessively difficult to ascend or descend the stairway. There are staff on site who help monitor and manage the stairway traffic and offer any general assistance. A photogenic place and very touristic.",
+          "time": 1582991607
+        },
+        {
+          "author_name": "Marcin Czernecki",
+          "author_url": "https://www.google.com/maps/contrib/104240515704609985985/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh6.ggpht.com/-3qmszRzqgQQ/AAAAAAAAAAI/AAAAAAAAAAA/JKjKiN2snOA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "a month ago",
+          "text": "Before trip to NYC, I didn't hear about Belvedere Castle. Even during planning phase, I was not planning to go there. However during spontaneous walk, my wife and I discovered mentioned castle. Even it's not real medieval castle, it is very beautiful. At the top there is breath-taking view, cool spot for selfies :) And it's not crowded area (Feb 2020).",
+          "time": 1583861210
+        },
+        {
+          "author_name": "Alli Will",
+          "author_url": "https://www.google.com/maps/contrib/105387012031483794339/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-yyxsXr6o_xQ/AAAAAAAAAAI/AAAAAAAAAAA/E_ihYyUWXMY/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "This place is absolutely beautiful and has some stunning views of the park and the city skyline. Really enjoyed climbing to the top and hanging out for a moment. Cute little gift shop inside the castle. Free to go inside and up the castle though!",
+          "time": 1581546387
+        },
+        {
+          "author_name": "Jeannine Szostak",
+          "author_url": "https://www.google.com/maps/contrib/108077704237781265334/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh4.ggpht.com/-CFZwZc0Sgsk/AAAAAAAAAAI/AAAAAAAAAAA/BHhxQf-6HbY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "3 months ago",
+          "text": "Love that it was free. Great view from the top. Don\u2019t let the line inside scare you - you get let up in groups so it moves quickly. There is only one staircase, so they have to take turns letting folks up and down.",
+          "time": 1578798886
+        },
+        {
+          "author_name": "Johnathan Durr",
+          "author_url": "https://www.google.com/maps/contrib/113664398017689559568/reviews",
+          "language": "en",
+          "profile_photo_url": "https://lh5.ggpht.com/-ttpv2InEZM0/AAAAAAAAAAI/AAAAAAAAAAA/NgQJHkDnjR4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "Beautiful building that offers incredible views for free. Was relatively empty on a weekday. Building inside is climate controlled and you can warm up inside on a cold day. Great photo ops await at the top. Avoid if you have trouble with narrow staircases or enclosed areas.",
+          "time": 1580086140
         }
       ]
     },

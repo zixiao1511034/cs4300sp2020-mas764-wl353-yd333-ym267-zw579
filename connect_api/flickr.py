@@ -5,48 +5,50 @@ import requests
 import csv
 import numpy as np 
 import time
+import os
+from geopy.distance import geodesic
+from dotenv import load_dotenv
 
 
-
+load_dotenv()
 
 
 class FlickrPhotos():
 
     def __init__(self):
-        flickr_api.set_keys(api_key = '2c0bf9ef96955f21d833728a05ac2926', api_secret = '314d90a562e65882')
+        flickr_api.set_keys(api_key = os.getenv("F_APIKEY"), api_secret = os.getenv("F_SECRET"))
         flickr.set_auth_handler("auth.txt")
         flickr_api.enable_cache()
 
     #Returns photos of a location sorted by views
-    def get_photos(self,location, tag=[], r='0.5',text="", count=100):
-        print(location)
+    def get_photos(self,location, tag=[], r='0.25',text="", count=500):
         photos = flickr.photos.search(
             text=text,tags=tag, 
             lat=str(location[0]), 
             lon=str(location[1]), 
-            radius='0.5',
+            radius=r,
             format='json', 
             nojsoncallback=1, 
             extras=['geo,url_o,views,tags,description'],
-            per_page=count,
-            privacy_filter=1
+            per_page=count
         )
+        #print(photos)
         photos = json.loads(photos.decode('utf8'))
         if (int(photos['photos']['total']) <= 10):
-            print(photos['photos']['total'])
+            #print(photos['photos']['total'])
             photos = flickr.photos.search(
-                tags=tag, 
+                text=text,tags=tag, 
                 lat=str(location[0]), 
                 lon=str(location[1]), 
-                radius='1',
+                radius=r*2,
                 format='json', 
                 nojsoncallback=1, 
                 extras=['geo,url_o,views,tags,description'],
-                per_page=count,
-                privacy_filter=1
+                per_page=count
             )
             photos = json.loads(photos.decode('utf8'))
-        #photos["photos"]["photo"] = sorted(photos["photos"]["photo"], key = lambda i: int(i['views']), reverse=True)
+        l1 = (location[0],location[1])
+        photos["photos"]["photo"] = sorted(photos["photos"]["photo"], key = lambda i: (geodesic(l1, (i['latitude'],i['longitude'])), -int(i['views'])), reverse=False)
         return photos["photos"]["photo"]
 
     #Returns the URLS only
