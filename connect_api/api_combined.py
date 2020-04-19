@@ -9,13 +9,13 @@ from flickr import FlickrPhotos
 
 class IRApi:
     def __init__(self, city, topic):
-        self.place_url = {}
+        self.place_url = []
         self.city = city
         self.ps = PorterStemmer()
         self.stem_topic = list(set([self.ps.stem(t) for t in topic.split(" ")]))
 
     def get_review(self):
-        self.GP = GooglePlaces(city)
+        self.GP = GooglePlaces(self.city)
         return self.GP.get_json()
 
     def process_json(self):
@@ -62,13 +62,24 @@ class IRApi:
             photos = FP.get_photos(text=r_p['name'])
 
             urls = FP.get_urls(photos)
+<<<<<<< HEAD
             self.place_url[r_p["name"]] = urls
         return json.dumps(self.place_url, indent=2)
+=======
+            self.place_url.append({"name": r_p["name"], "images": urls})
+        return self.place_url
+>>>>>>> 52a6e424f78e9296ccb9ec7459d603b6d2ca4f0d
 
    
 
 
+if __name__ == '__main__':
+    #input city/area name string, as specific as possible. Eg. "Manhattan, New York"
+    glob_city = input("Please input a city/area: ")
+    #input topic, seperated by space. Eg. "photo historical building bridge"
+    glob_topic = input("Please input topic: ")
 
+<<<<<<< HEAD
 #input city/area name string, as specific as possible. Eg. "Manhattan, New York"
 city = input("Please input a city/area: ")
 #input topic, seperated by space. Eg. "photo historical building bridge"
@@ -78,6 +89,12 @@ IR = IRApi(city, topic)
 place_url = IR.get_rank_places()
 print(place_url)
 
+=======
+    glob_IR = IRApi(glob_city, glob_topic)
+    place_url = json.dumps(glob_IR.get_rank_places())
+    print(place_url)
+    print(type(place_url))
+>>>>>>> 52a6e424f78e9296ccb9ec7459d603b6d2ca4f0d
 
 
 
