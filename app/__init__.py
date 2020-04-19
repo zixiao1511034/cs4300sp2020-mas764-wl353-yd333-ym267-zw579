@@ -34,7 +34,7 @@ socketio.init_app(app)
 
 # Our search route. It returns JSON and is called by the front-end
 # TODO: add filters as an arg
-# Example search- http://localhost:5000/search?city=Tampa
+# Example search- http://localhost:5000/search?city=Tampa&topics=park
 @app.route('/search', methods=['GET'])
 def get_results():
     city = request.args.get('city') if 'city' in request.args else "Tampa"

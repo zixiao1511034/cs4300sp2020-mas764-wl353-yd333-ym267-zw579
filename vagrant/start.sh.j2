@@ -10,3 +10,4 @@ exec gunicorn app:app \
     --access-logfile '-' \
     -e DATABASE_URL=postgresql://localhost/my_app_db \
     -e APP_SETTINGS=config.ProductionConfig
+    --timeout 90
