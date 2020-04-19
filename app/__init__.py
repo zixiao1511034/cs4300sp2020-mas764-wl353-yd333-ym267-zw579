@@ -3,11 +3,15 @@ from gevent import monkey
 monkey.patch_all()
 
 # Imports
-import os
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_socketio import SocketIO
 from flask_cors import CORS
+import os
+import sys
+dir = os.path.abspath(os.path.dirname(__file__))
+sys.path.insert(0, os.path.abspath(os.path.join(dir, '../connect_api')))
+from api_combined import IRApi
 
 # Configure app
 socketio = SocketIO()
@@ -33,8 +37,11 @@ socketio.init_app(app)
 # Example search- http://localhost:5000/search?city=Tampa
 @app.route('/search', methods=['GET'])
 def get_results():
-    city = request.args.get('city')
-    return {'current_city': city}
+    city = request.args.get('city') if 'city' in request.args else "Tampa"
+    topic = request.args.get('topics') if 'topics' in request.args else "garden"
+    IR = IRApi(city, topic)
+    places_JSON = IR.get_rank_places()
+    return jsonify(places_JSON)
 
 # HTTP error handling
 @app.errorhandler(404)
