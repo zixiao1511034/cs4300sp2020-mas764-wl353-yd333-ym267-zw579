@@ -58,8 +58,8 @@ class IRApi:
         FP = FlickrPhotos()
         # print(ranked_places)
         for r_p in ranked_places:
-            # photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
-            photos = FP.get_photos(text=r_p['name'])
+            photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
+            # photos = FP.get_photos(text=r_p['name'])
 
             urls = FP.get_urls(photos)
             self.place_url.append({"name": r_p["name"], "images": urls})
