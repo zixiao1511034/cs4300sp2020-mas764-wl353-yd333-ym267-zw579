@@ -9,7 +9,7 @@ from flickr import FlickrPhotos
 
 class IRApi:
     def __init__(self, city, topic):
-        self.place_url = []
+        self.place_url_review = []
         self.city = city
         self.ps = PorterStemmer()
         self.stem_topic = list(set([self.ps.stem(t) for t in topic.split(" ")]))
@@ -19,20 +19,20 @@ class IRApi:
         return self.GP.get_json()
 
     def process_json(self):
-        json_review_dict = self.get_review()
-        
+        self.json_review_dict = self.get_review()
+        # print(self.json_review_dict)
         self.review_dict = {}
         self.review_list = []
-        for place in json_review_dict:
-            if "reviews" in json_review_dict[place]["result"]:
+        for place in self.json_review_dict:
+            if "reviews" in self.json_review_dict[place]["result"]:
                 self.review_dict[place] = {}
                 # I am assuming the key for each place is same as place name for
                 # the purposes of later computations.
-                self.review_dict[place]["name"] = json_review_dict[place]["result"]["name"]
-                self.review_dict[place]["id"] = json_review_dict[place]["result"]["place_id"]
-                self.review_dict[place]["loc_dict"] = json_review_dict[place]["result"]["geometry"]
+                self.review_dict[place]["name"] = self.json_review_dict[place]["result"]["name"]
+                self.review_dict[place]["id"] = self.json_review_dict[place]["result"]["place_id"]
+                self.review_dict[place]["loc_dict"] = self.json_review_dict[place]["result"]["geometry"]
                 self.review_dict[place]["comment_toks"] = []
-                for review in json_review_dict[place]["result"]["reviews"]:
+                for review in self.json_review_dict[place]["result"]["reviews"]:
                     # we can modify this in the future for multi-language support:
                     if review.get("language") == "en":
                         comment = review["text"]
@@ -58,12 +58,13 @@ class IRApi:
         FP = FlickrPhotos()
         # print(ranked_places)
         for r_p in ranked_places:
-            photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]])
+            photos = FP.get_photos(location=[r_p["loc_dict"]["location"]["lat"], r_p["loc_dict"]["location"]["lng"]], text=r_p["name"])
             # photos = FP.get_photos(text=r_p['name'])
 
             urls = FP.get_urls(photos)
-            self.place_url.append({"name": r_p["name"], "images": urls})
-        return self.place_url
+            reviews = [rv['text'] for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
+            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews})
+        return self.place_url_review
 
 
 
