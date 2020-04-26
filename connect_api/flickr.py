@@ -32,7 +32,7 @@ class FlickrPhotos():
             # radius='0.5',
             format='json', 
             nojsoncallback=1, 
-            extras=['geo,url_o,views,tags,description,url_s,url_m,url_l'],
+            extras=['geo,url_o,views,tags,description,url_z'],
             per_page=count,
             sort="relevance",
             has_geo=1,
