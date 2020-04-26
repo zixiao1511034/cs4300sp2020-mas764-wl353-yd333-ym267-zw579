@@ -24,7 +24,6 @@ class FlickrPhotos():
 
     #Returns photos of a location sorted by views
     def get_photos(self, location=[], tag=[], r='0.5',text="", count=100):
-        print(text)
         photos = flickr.photos.search(
             # tags=tag, 
             text=text,
@@ -33,37 +32,28 @@ class FlickrPhotos():
             # radius='0.5',
             format='json', 
             nojsoncallback=1, 
-            extras=['geo,url_o,views,tags,description'],
+            extras=['geo,url_o,views,tags,description,url_s,url_m,url_l'],
             per_page=count,
             sort="relevance",
+            has_geo=1,
             privacy_filter=1
         )
         photos = json.loads(photos.decode('utf8'))
-        if (int(photos['photos']['total']) <= 10):
-            print(photos['photos']['total'])
-            photos = flickr.photos.search(
-                # tags=tag, 
-                text=text,
-                # lat=str(location[0]), 
-                # lon=str(location[1]), 
-                # radius='1',
-                format='json', 
-                nojsoncallback=1, 
-                extras=['geo,url_o,views,tags,description'],
-                per_page=count,
-                sort="relevance",
-                privacy_filter=1
-            )
-            photos = json.loads(photos.decode('utf8'))
+        p = photos["photos"]['photo']
+        l1 = (location[0],location[1])
+        for x in p:
+            g = geodesic(l1, (x['latitude'],x['longitude']))
+            if(g > 1):
+                p.remove(x)
         #photos["photos"]["photo"] = sorted(photos["photos"]["photo"], key = lambda i: int(i['views']), reverse=True)
-        return photos["photos"]["photo"]
+        return p
 
     #Returns the URLS only
     def get_urls(self,photos, max=10):
         urls = []
         for x in photos:
-            if('url_o' in x.keys()):
-                urls.append(x['url_o'])
+            if('url_z' in x.keys()):
+                urls.append(x['url_z'])
         return urls[:10]
 
     #Return information about photos such as aperture
