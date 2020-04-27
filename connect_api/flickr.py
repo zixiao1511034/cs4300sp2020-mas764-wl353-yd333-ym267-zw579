@@ -42,17 +42,15 @@ class FlickrPhotos():
         p = photos["photos"]['photo']
         l1 = (location[0],location[1])
         for x in p:
-            g = geodesic(l1, (x['latitude'],x['longitude']))
-            if(g > 1):
-                p.remove(x)
-        #photos["photos"]["photo"] = sorted(photos["photos"]["photo"], key = lambda i: int(i['views']), reverse=True)
+            g = geodesic(l1, (x['latitude'],x['longitude'])).km
+            x['dist'] = g
         return p
 
     #Returns the URLS only
     def get_urls(self,photos, max=10):
         urls = []
         for x in photos:
-            if('url_z' in x.keys()):
+            if('url_z' in x.keys() and x['dist'] <= 1.0):
                 urls.append(x['url_z'])
         return urls[:10]
 
