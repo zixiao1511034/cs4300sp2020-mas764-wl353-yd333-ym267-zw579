@@ -36,7 +36,7 @@ for place in json_review_dict:
                 # If we decide to treat comments seperately, will change this part.
                 review_dict[place]['comment_toks']+=tokens
         review_list.append(review_dict[place].copy())
-print(type(review_list[0]))
+# print(type(review_list[0]))
 
 """
 PROCESS PREFERENCE QUERY:

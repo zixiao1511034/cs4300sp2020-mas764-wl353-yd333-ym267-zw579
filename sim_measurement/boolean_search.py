@@ -70,9 +70,10 @@ def dis_boolean_search_ordered(query_terms, inverted_index, number_of_docs):
     for query_term in query_terms:
         query_term = query_term.lower()
         query_postings[query_term] = []
-        for entry in inverted_index[query_term]:
-            # For now, I disregarded term frequency of individual terms.
-            query_postings[query_term].append(entry[0])
+        if query_term in inverted_index:
+            for entry in inverted_index[query_term]:
+                # For now, I disregarded term frequency of individual terms.
+                query_postings[query_term].append(entry[0])
 
     # To hold number of user terms each comment has:
     docs = np.zeros(number_of_docs, dtype=int)
