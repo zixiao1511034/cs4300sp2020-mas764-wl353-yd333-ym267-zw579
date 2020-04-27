@@ -4,11 +4,16 @@ import numpy as np
 from boolean_search import build_inverted_index, dis_boolean_search_ordered, rank_places
 from google_place_detail import GooglePlaces
 import time
+import nltk
 from nltk.stem import PorterStemmer
 from flickr import FlickrPhotos
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import os
 
 class IRApi:
     def __init__(self, city, topic):
+        dir = os.path.abspath(os.path.dirname(__file__))
+        nltk.data.path.append(dir)
         self.place_url_review = []
         self.city = city
         self.ps = PorterStemmer()
@@ -54,7 +59,7 @@ class IRApi:
             self.stem_topic, inverted_index, len(self.review_list)
         )
         ranked_places = rank_places(self.review_dict, self.review_list, bool_search_results)
-
+        analyzer = SentimentIntensityAnalyzer()
         FP = FlickrPhotos()
         # print(ranked_places)
         for r_p in ranked_places:
@@ -62,8 +67,24 @@ class IRApi:
             # photos = FP.get_photos(text=r_p['name'])
 
             urls = FP.get_urls(photos)
+            reviews = []
             reviews = [rv['text'] for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
-            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews})
+            
+            sentiment = {}
+            s = [analyzer.polarity_scores(rv['text']) for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
+            x = np.argmax([x['compound'] for x in s])
+            sentiment['most_positive'] = (reviews[x],s[x]['compound'])
+            x = np.argmin([x['compound'] for x in s])
+            sentiment['most_negative'] = (reviews[x],s[x]['compound'])
+            sentiment['avg_sentiment'] = np.mean([x['compound'] for x in s])
+            if(sentiment['avg_sentiment'] < 0.05):
+                sentiment['overall'] = 'negative'
+            elif(sentiment['avg_sentiment'] > 0.05):
+                sentiment['overall'] = 'positve'
+            else:
+                sentiment['overall'] = 'neutral'
+
+            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews, "sentiment":sentiment})
         return self.place_url_review
 
 
