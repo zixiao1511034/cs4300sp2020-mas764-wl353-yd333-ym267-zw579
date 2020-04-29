@@ -60,6 +60,7 @@ class GooglePlaces(object):
             "placeid": place_id,
             "fields": ",".join(self.fields),
             "key": self.apiKey,
+            "language": "en"
         }
         res = requests.get(endpoint_url, params=params)
         place_details = json.loads(res.content)
