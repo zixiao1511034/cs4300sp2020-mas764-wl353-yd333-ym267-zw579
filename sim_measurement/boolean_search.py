@@ -3,6 +3,8 @@ import numpy as np
 """
 USEFUL METHODS FOR BOOLEAN SEARCH:
 """
+
+
 def build_inverted_index(msgs):
     """
     Arguments:
@@ -19,10 +21,10 @@ def build_inverted_index(msgs):
     inverted_index = {}
     for i in range(len(msgs)):
         unique_terms = set()
-        for token in msgs[i]['comment_toks']:
+        for token in msgs[i]["comment_toks"]:
             unique_terms.add(token)
         for term in unique_terms:
-            count_of_term_in_doc = msgs[i]['comment_toks'].count(term)
+            count_of_term_in_doc = msgs[i]["comment_toks"].count(term)
             entry_tuple = (i, count_of_term_in_doc)
             if inverted_index.get(term):
                 inverted_index[term].append(entry_tuple)
@@ -30,7 +32,7 @@ def build_inverted_index(msgs):
                 inverted_index[term] = [entry_tuple]
     # Sort tuples in ascending order of doc_ids for each term in inverted_index:
     for term in inverted_index:
-        inverted_index[term] = sorted(inverted_index[term], key = lambda x: x[0])
+        inverted_index[term] = sorted(inverted_index[term], key=lambda x: x[0])
 
     return inverted_index
 
@@ -85,7 +87,7 @@ def dis_boolean_search_ordered(query_terms, inverted_index, number_of_docs):
     results = []
     for index in indices_to_sort:
         if docs[index] == 0:
-            break # we don't need to keep going after running out of relevant comments
+            break  # we don't need to keep going after running out of relevant comments
         results.append(index)
     return results
 
@@ -106,6 +108,6 @@ def rank_places(rev_dict, msgs_list, ordered_dis_bool_search_results):
     ranked_places = []
     for doc_index in ordered_dis_bool_search_results:
         place_dict = msgs_list[doc_index]
-        place_name = place_dict['name']
+        place_name = place_dict["name"]
         ranked_places.append(rev_dict[place_name])
     return ranked_places
