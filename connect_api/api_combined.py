@@ -4,20 +4,31 @@ import numpy as np
 from boolean_search import build_inverted_index, dis_boolean_search_ordered, rank_places
 from google_place_detail import GooglePlaces
 import time
-import nltk
 from nltk.stem import PorterStemmer
 from flickr import FlickrPhotos
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-import os
+import difflib
+
+class color:
+   PURPLE = '\033[95m'
+   CYAN = '\033[96m'
+   DARKCYAN = '\033[36m'
+   BLUE = '\033[94m'
+   GREEN = '\033[92m'
+   YELLOW = '\033[93m'
+   RED = '\033[91m'
+   BOLD = '\033[1m'
+   UNDERLINE = '\033[4m'
+   END = '\033[0m'
+
 
 class IRApi:
     def __init__(self, city, topic):
-        dir = os.path.abspath(os.path.dirname(__file__))
-        nltk.data.path.append(dir)
         self.place_url_review = []
         self.city = city
         self.ps = PorterStemmer()
+        self.topic = topic.split(" ")
         self.stem_topic = list(set([self.ps.stem(t) for t in topic.split(" ")]))
+        self.variation_topic = {}
 
     def get_review(self):
         self.GP = GooglePlaces(self.city)
@@ -59,7 +70,7 @@ class IRApi:
             self.stem_topic, inverted_index, len(self.review_list)
         )
         ranked_places = rank_places(self.review_dict, self.review_list, bool_search_results)
-        analyzer = SentimentIntensityAnalyzer()
+
         FP = FlickrPhotos()
         # print(ranked_places)
         for r_p in ranked_places:
@@ -67,28 +78,34 @@ class IRApi:
             # photos = FP.get_photos(text=r_p['name'])
 
             urls = FP.get_urls(photos)
-            reviews = []
             reviews = [rv['text'] for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
-            
-            sentiment = {}
-            s = [analyzer.polarity_scores(rv['text']) for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
-            x = np.argmax([x['compound'] for x in s])
-            sentiment['most_positive'] = (reviews[x],s[x]['compound'])
-            x = np.argmin([x['compound'] for x in s])
-            sentiment['most_negative'] = (reviews[x],s[x]['compound'])
-            sentiment['avg_sentiment'] = np.mean([x['compound'] for x in s])
-            if(sentiment['avg_sentiment'] < 0.05):
-                sentiment['overall'] = 'negative'
-            elif(sentiment['avg_sentiment'] > 0.05):
-                sentiment['overall'] = 'positve'
-            else:
-                sentiment['overall'] = 'neutral'
+            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews})
 
-            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews, "sentiment":sentiment})
+        self.highlight(self.place_url_review)
         return self.place_url_review
 
 
+    def highlight(self, place_url_review):
+        highlight_pos = []
+        for place in place_url_review:
 
+            for review_i, review in enumerate(place['reviews']):
+                review_split = review.split()
+                for word_i, word in enumerate(review_split):
+                    if word[-1] in ",.!?:":
+                        word_ = word[:-1]
+                        for topic in self.stem_topic:
+                            if self.ps.stem(word_) == topic:
+                                highlight_pos.append((review_i, word_i, word_))
+                                review_split[word_i] = "<b>" + word_ + "</b>" + word[-1]
+                    else:
+                        for topic in self.stem_topic:
+                            if self.ps.stem(word) == topic:
+                                highlight_pos.append((review_i, word_i, word))
+                                review_split[word_i] = "<b>" + word + "</b>"
+                place["reviews"][review_i] = (" ".join(review_split))
+        print(highlight_pos)
+        return
 
 if __name__ == '__main__':
     #input city/area name string, as specific as possible. Eg. "Manhattan, New York"
