@@ -42,23 +42,54 @@ class FlickrPhotos():
         p = photos["photos"]['photo']
         l1 = (location[0],location[1])
         for x in p:
-            g = geodesic(l1, (x['latitude'],x['longitude'])).km
-            x['dist'] = g
+            g = geodesic(l1, (x['latitude'],x['longitude']))
+            if(g > 1):
+                p.remove(x)
+        #photos["photos"]["photo"] = sorted(photos["photos"]["photo"], key = lambda i: int(i['views']), reverse=True)
         return p
 
     #Returns the URLS only
     def get_urls(self,photos, max=10):
         urls = []
-        for x in photos:
-            if('url_z' in x.keys() and x['dist'] <= 1.0):
+        for x in photos[:10]:
+            if('url_z' in x.keys()):
                 urls.append(x['url_z'])
-        return urls[:10]
+        return urls
 
     #Return information about photos such as aperture
     def get_info(self,photo):
         info = flickr.photos.getExif(photo_id=photo['id'],format='json', nojsoncallback=1)
         info = json.loads(info)
+        # print(json.dumps(info, indent=2))
         return info
+
+    #Return URL with info
+    def get_urls_info(self,photos, max=10):
+        urls_info = []
+        for x in photos[:10]:
+            if('url_z' in x.keys()):
+                info = self.get_info(x)
+                # print(info.keys())
+                if 'photo' in info.keys():
+                    URL = x['url_z']
+                    CAMERA = info['photo']['camera']
+                    SS = AP = ISO = EB = None
+                    for tag in info['photo']['exif']:
+                        if tag['label'] == 'Exposure': SS = tag['raw']['_content']
+                        if tag['label'] == 'Aperture': AP = tag['clean']['_content']
+                        if tag['label'] == 'ISO Speed': ISO = tag['raw']['_content']
+                        if tag['label'] == 'Exposure Bia': EB = tag['clean']['_content']
+                        
+                    comb = {'url': URL, 
+                            'camera': CAMERA, 
+                            'SS':SS, 
+                            'AP':AP,
+                            'ISO':ISO,
+                            'EB':EB }
+                    urls_info.append(comb)
+                    time.sleep(0.05)
+                    # print("------------------------------------")
+        return urls_info
 
     #Return Comments about a photo
     def get_comments(self,photo):
