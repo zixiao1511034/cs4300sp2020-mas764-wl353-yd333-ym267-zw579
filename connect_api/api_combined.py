@@ -73,7 +73,7 @@ class IRApi:
             self.stem_topic, inverted_index, len(self.review_list)
         )
         ranked_places = rank_places(self.review_dict, self.review_list, bool_search_results)
-
+        analyzer = SentimentIntensityAnalyzer()
         FP = FlickrPhotos()
         # print(ranked_places)
         for r_p in ranked_places:
