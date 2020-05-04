@@ -7,6 +7,9 @@ import time
 from nltk.stem import PorterStemmer
 from flickr import FlickrPhotos
 import difflib
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import os
+
 
 class color:
    PURPLE = '\033[95m'
@@ -80,7 +83,24 @@ class IRApi:
             # print("-------------------------")
             urls = FP.get_urls_info(photos)
             reviews = [rv['text'] for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
-            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews})
+
+            sentiment = {}
+            s = [analyzer.polarity_scores(rv['text']) for rv in self.json_review_dict[r_p["name"]]["result"]["reviews"]]
+            x = np.argmax([x['compound'] for x in s])
+            sentiment['most_positive'] = (reviews[x],s[x]['compound'])
+            x = np.argmin([x['compound'] for x in s])
+            sentiment['most_negative'] = (reviews[x],s[x]['compound'])
+            sentiment['avg_sentiment'] = np.mean([x['compound'] for x in s])
+            if(sentiment['avg_sentiment'] < 0.05):
+                sentiment['overall'] = 'negative'
+            elif(sentiment['avg_sentiment'] > 0.05):
+                sentiment['overall'] = 'positve'
+            else:
+                sentiment['overall'] = 'neutral'
+
+            
+
+            self.place_url_review.append({"name": r_p["name"], "images": urls, "reviews": reviews, "sentiment":sentiment})
 
         self.highlight(self.place_url_review)
         return self.place_url_review
