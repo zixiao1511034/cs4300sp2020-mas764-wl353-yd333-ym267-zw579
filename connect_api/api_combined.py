@@ -9,6 +9,7 @@ from flickr import FlickrPhotos
 import difflib
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import os
+import nltk
 
 
 class color:
@@ -26,6 +27,8 @@ class color:
 
 class IRApi:
     def __init__(self, city, topic):
+        dir = os.path.abspath(os.path.dirname(__file__))
+        nltk.data.path.append(dir)
         self.place_url_review = []
         self.city = city
         self.ps = PorterStemmer()
